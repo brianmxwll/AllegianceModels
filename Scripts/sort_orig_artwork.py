@@ -10,7 +10,6 @@ SRC_DIR = 'E:\\OriginalArtwork\\'
 DEST_DIR = 'E:\\XModels\\'
 
 def main():
-    global x
     allfiles = [f for f in listdir(SRC_DIR) if isfile(join(SRC_DIR, f))]
     
     #Get only the .x models for now, "_static" and alt versions of model will be considered related
