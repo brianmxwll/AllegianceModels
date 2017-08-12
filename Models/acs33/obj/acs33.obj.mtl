@@ -1,0 +1,17 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.29665513)
+
+newmtl material252
+kd 1 1 1
+ks 1 1 1
+ke 0.5 0.5 0.5
+illum 1
+map_kd acs33.bmp
+
+newmtl material261
+kd 1 1 1
+ks 1 1 1
+ke 1 1 1
+illum 1
+map_kd acs33.bmp
+
