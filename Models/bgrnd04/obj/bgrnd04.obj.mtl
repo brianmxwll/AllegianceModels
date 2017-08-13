@@ -1,10 +1,10 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-newmtl material365
+newmtl MainMaterial
 kd 1 1 1
 ks 1 1 1
-ke 0.4 0.4 0.4
+ke 0 0 0
 illum 1
-map_kd bgnd04.bmp
-
+map_Ka bgrnd04.bmp
+map_Kd bgrnd04.bmp

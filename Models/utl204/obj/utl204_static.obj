@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl204_static.obj.mtl
 
 # 80 vertex positions
 v  0.815468 1.94732 2.12448
@@ -317,7 +316,6 @@ vn -0 -1 0
 
 # Mesh 'frm-cube26' with 44 faces
 g frm-cube26
-usemtl JoinedMaterial_#4
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 3/3/3 5/5/5
 f  3/3/3 4/4/4 1/1/1
@@ -365,7 +363,6 @@ f  10/57/32 18/56/21 11/53/11
 
 # Mesh 'frm-cube4' with 21 faces
 g frm-cube4
-usemtl JoinedMaterial_#4
 f  25/58/33 26/59/34 27/60/35
 f  28/61/36 29/62/37 30/63/38
 f  31/64/39 28/61/36 30/63/38
@@ -390,7 +387,6 @@ f  27/60/57 31/64/41 25/58/44
 
 # Mesh 'frm-cyl1' with 42 faces
 g frm-cyl1
-usemtl JoinedMaterial_#4
 f  41/78/58 42/79/59 43/80/60
 f  44/81/61 41/78/62 43/80/63
 f  44/81/61 43/80/63 45/82/64
@@ -436,7 +432,6 @@ f  41/105/58 48/102/67 42/104/59
 
 # Mesh 'frm-cube33' with 12 faces
 g frm-cube33
-usemtl JoinedMaterial_#4
 f  65/106/96 66/107/96 67/108/96
 f  68/109/96 65/106/96 67/108/96
 f  69/110/97 70/111/97 66/112/97
@@ -452,7 +447,6 @@ f  67/123/101 66/124/101 72/122/101
 
 # Mesh 'frm-cube35' with 12 faces
 g frm-cube35
-usemtl JoinedMaterial_#4
 f  73/107/96 74/106/96 75/109/96
 f  76/108/96 73/107/96 75/109/96
 f  77/111/99 78/110/99 74/113/99

@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib wep11_static.obj.mtl
 
 # 52 vertex positions
 v  -0.07566 0.044531 -0.176693
@@ -234,7 +233,6 @@ vn -0.334916 0.120195 0.93455
 
 # Mesh 'frm-wepbar2' with 16 faces
 g frm-wepbar2
-usemtl material225
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/4
 f  3/3/5 5/5/6 6/6/7
@@ -254,7 +252,6 @@ f  10/19/27 3/22/28 6/20/7
 
 # Mesh 'frm-wepbar1' with 24 faces
 g frm-wepbar1
-usemtl material427
 f  13/23/29 14/24/30 15/25/31
 f  13/23/29 16/26/32 14/24/30
 f  17/27/33 15/28/34 18/24/35
@@ -282,19 +279,16 @@ f  28/42/48 21/40/48 17/35/46
 
 # Mesh 'frm-wepbar1' with 2 faces
 g frm-wepbar1
-usemtl material436
 f  19/43/49 25/44/49 24/45/49
 f  19/43/49 24/45/49 20/46/49
 
 # Mesh 'frm-wepbas1' with 2 faces
 g frm-wepbas1
-usemtl material688
 f  29/47/50 30/48/50 31/49/50
 f  29/47/50 31/49/50 32/50/50
 
 # Mesh 'frm-wepbas1' with 4 faces
 g frm-wepbas1
-usemtl material697
 f  30/51/51 33/52/52 34/53/53
 f  30/54/51 34/55/53 31/56/51
 f  33/57/52 35/58/48 36/59/48
@@ -302,7 +296,6 @@ f  33/52/52 36/59/48 34/60/53
 
 # Mesh 'frm-wepbas1' with 4 faces
 g frm-wepbas1
-usemtl material706
 f  37/61/49 38/62/49 39/63/49
 f  37/61/49 39/63/49 40/64/49
 f  40/64/49 36/65/49 35/66/49
@@ -310,7 +303,6 @@ f  40/64/49 35/66/49 37/61/49
 
 # Mesh 'frm-wepbas1' with 4 faces
 g frm-wepbas1
-usemtl material715
 f  38/67/47 41/68/47 29/69/47
 f  38/67/47 29/69/47 32/70/47
 f  38/67/47 32/70/47 42/71/47
@@ -318,7 +310,6 @@ f  38/67/47 42/71/47 39/72/47
 
 # Mesh 'frm-wepbas1' with 14 faces
 g frm-wepbas1
-usemtl material724
 f  34/73/54 36/74/55 40/75/56
 f  34/73/54 40/75/56 43/76/57
 f  43/76/57 40/75/56 39/77/40
@@ -336,7 +327,6 @@ f  41/84/64 38/88/36 37/85/65
 
 # Mesh 'frm-wepbas2' with 10 faces
 g frm-wepbas2
-usemtl material898
 f  45/89/68 46/90/69 47/91/70
 f  45/89/68 47/91/70 48/92/71
 f  48/92/71 47/91/70 49/93/72

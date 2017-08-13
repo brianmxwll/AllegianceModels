@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ops1_static.obj.mtl
 
 # 66 vertex positions
 v  0.003866 -5 7.07107
@@ -113,7 +112,6 @@ vn 0.471398 -0.333328 0.816502
 
 # Mesh 'frm-ship' with 24 faces
 g frm-ship
-usemtl JoinedMaterial_#14
 f  1/1/1 2/2/2 3/3/3
 f  1/4/1 3/3/3 4/5/4
 f  3/3/3 2/6/2 5/7/5
@@ -141,7 +139,6 @@ f  14/3/22 10/9/22 5/8/22
 
 # Mesh 'frm-trail' with 4 faces
 g frm-trail
-usemtl JoinedMaterial_#14
 f  15//23 16//23 17//23
 f  16//24 15//24 18//24
 f  17//21 18//21 15//21
@@ -149,7 +146,6 @@ f  18//25 17//25 16//25
 
 # Mesh 'frm-lthrust' with 4 faces
 g frm-lthrust
-usemtl JoinedMaterial_#14
 f  19//23 20//23 21//23
 f  20//24 19//24 22//24
 f  21//21 22//21 19//21
@@ -157,7 +153,6 @@ f  22//25 21//25 20//25
 
 # Mesh 'frm-rthrust' with 4 faces
 g frm-rthrust
-usemtl JoinedMaterial_#14
 f  23//23 24//23 25//23
 f  24//24 23//24 26//24
 f  25//21 26//21 23//21
@@ -165,7 +160,6 @@ f  26//25 25//25 24//25
 
 # Mesh 'frm-cockpt' with 4 faces
 g frm-cockpt
-usemtl JoinedMaterial_#14
 f  27//23 28//23 29//23
 f  28//24 27//24 30//24
 f  29//21 30//21 27//21
@@ -173,7 +167,6 @@ f  30//25 29//25 28//25
 
 # Mesh 'frm-missemt' with 4 faces
 g frm-missemt
-usemtl JoinedMaterial_#14
 f  31//23 32//23 33//23
 f  32//24 31//24 34//24
 f  33//21 34//21 31//21
@@ -181,7 +174,6 @@ f  34//25 33//25 32//25
 
 # Mesh 'frm-lwepemt' with 4 faces
 g frm-lwepemt
-usemtl JoinedMaterial_#14
 f  35//23 36//23 37//23
 f  36//24 35//24 38//24
 f  37//21 38//21 35//21
@@ -189,7 +181,6 @@ f  38//25 37//25 36//25
 
 # Mesh 'frm-rwepemt' with 4 faces
 g frm-rwepemt
-usemtl JoinedMaterial_#14
 f  39//23 40//23 41//23
 f  40//24 39//24 42//24
 f  41//21 42//21 39//21
@@ -197,7 +188,6 @@ f  42//25 41//25 40//25
 
 # Mesh 'frm-turwepemt1' with 4 faces
 g frm-turwepemt1
-usemtl JoinedMaterial_#14
 f  43//23 44//23 45//23
 f  44//24 43//24 46//24
 f  45//21 46//21 43//21
@@ -205,7 +195,6 @@ f  46//25 45//25 44//25
 
 # Mesh 'frm-turwepemt2' with 4 faces
 g frm-turwepemt2
-usemtl JoinedMaterial_#14
 f  47//23 48//23 49//23
 f  48//24 47//24 50//24
 f  49//21 50//21 47//21
@@ -213,7 +202,6 @@ f  50//25 49//25 48//25
 
 # Mesh 'frm-smoke' with 4 faces
 g frm-smoke
-usemtl JoinedMaterial_#14
 f  19//23 20//23 21//23
 f  20//24 19//24 22//24
 f  21//21 22//21 19//21
@@ -221,7 +209,6 @@ f  22//25 21//25 20//25
 
 # Mesh 'frm-turwepemt6' with 4 faces
 g frm-turwepemt6
-usemtl JoinedMaterial_#14
 f  51//26 52//26 53//26
 f  54//27 53//27 52//27
 f  53//21 54//21 51//21
@@ -229,7 +216,6 @@ f  52//25 51//25 54//25
 
 # Mesh 'frm-turwepemt5' with 4 faces
 g frm-turwepemt5
-usemtl JoinedMaterial_#14
 f  55//26 56//26 57//26
 f  58//27 57//27 56//27
 f  57//21 58//21 55//21
@@ -237,7 +223,6 @@ f  56//25 55//25 58//25
 
 # Mesh 'frm-turwepemt4' with 4 faces
 g frm-turwepemt4
-usemtl JoinedMaterial_#14
 f  59//23 60//23 61//23
 f  60//24 59//24 62//24
 f  61//21 62//21 59//21
@@ -245,7 +230,6 @@ f  62//25 61//25 60//25
 
 # Mesh 'frm-turwepemt3' with 4 faces
 g frm-turwepemt3
-usemtl JoinedMaterial_#14
 f  63//26 64//26 65//26
 f  66//27 65//27 64//27
 f  65//21 66//21 63//21

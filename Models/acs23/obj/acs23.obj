@@ -180,7 +180,7 @@ vn 0.999996 0.000106049 0.00293803
 
 # Mesh 'frm-acs23' with 54 faces
 g frm-acs23
-usemtl material394
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  4/4/4 3/3/3 5/5/5
@@ -238,7 +238,7 @@ f  26/26/26 24/24/24 31/31/31
 
 # Mesh 'frm-acs23' with 24 faces
 g frm-acs23
-usemtl material403
+usemtl MainMaterial
 f  32/32/32 33/33/33 34/34/34
 f  32/32/32 35/35/35 33/33/33
 f  30/36/36 33/33/33 35/35/35
@@ -266,7 +266,7 @@ f  25/67/43 26/66/49 38/63/40
 
 # Mesh 'frm-acs23' with 4 faces
 g frm-acs23
-usemtl material412
+usemtl MainMaterial
 f  34/68/50 39/69/51 32/70/52
 f  39/69/51 34/68/50 36/71/53
 f  36/71/53 34/68/50 41/69/53

@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib cap501_static.obj.mtl
 
 # 413 vertex positions
 v  -0.689575 0.879279 -9.05988
@@ -1131,7 +1130,6 @@ vn 0.622695 0.769335 -0.14274
 
 # Mesh 'frm-cube1_3' with 8 faces
 g frm-cube1_3
-usemtl JoinedMaterial_#23
 f  1/1/1 2/2/1 3/3/1
 f  4/4/1 1/1/1 3/3/1
 f  5/5/2 2/2/3 1/1/2
@@ -1143,7 +1141,6 @@ f  8/7/8 7/1/6 3/3/6
 
 # Mesh 'frm-engine_shpere1_1' with 60 faces
 g frm-engine_shpere1_1
-usemtl JoinedMaterial_#23
 f  9/8/9 10/9/10 11/10/11
 f  9/8/9 12/11/12 13/12/13
 f  10/9/10 9/8/9 13/12/13
@@ -1207,7 +1204,6 @@ f  16/15/16 9/8/9 11/10/11
 
 # Mesh 'frm-nozzle1_3' with 4 faces
 g frm-nozzle1_3
-usemtl JoinedMaterial_#23
 f  41/45/40 42/46/40 43/47/40
 f  44/48/40 41/45/40 43/47/40
 f  45/49/40 46/50/40 44/48/40
@@ -1215,7 +1211,6 @@ f  43/47/40 45/49/40 44/48/40
 
 # Mesh 'frm-nozzle1_3' with 12 faces
 g frm-nozzle1_3
-usemtl JoinedMaterial_#23
 f  43/51/41 47/52/42 48/53/43
 f  45/54/44 43/51/41 48/53/43
 f  42/55/45 49/56/46 47/52/42
@@ -1231,7 +1226,6 @@ f  46/51/51 45/54/44 52/52/52
 
 # Mesh 'frm-cube1_1' with 8 faces
 g frm-cube1_1
-usemtl JoinedMaterial_#23
 f  53/59/53 54/60/54 55/61/53
 f  56/62/55 53/59/53 55/61/53
 f  57/63/56 54/60/57 53/59/56
@@ -1243,7 +1237,6 @@ f  60/65/61 59/59/59 55/61/59
 
 # Mesh 'frm-engine_shpere1' with 60 faces
 g frm-engine_shpere1
-usemtl JoinedMaterial_#23
 f  61/8/9 62/9/10 63/10/11
 f  61/8/9 64/11/12 65/12/13
 f  62/9/10 61/8/9 65/12/13
@@ -1307,7 +1300,6 @@ f  68/15/16 61/8/9 63/10/11
 
 # Mesh 'frm-nozzle1_4' with 4 faces
 g frm-nozzle1_4
-usemtl JoinedMaterial_#23
 f  93/45/40 94/46/40 95/47/40
 f  96/48/40 93/45/40 95/47/40
 f  97/49/40 98/50/40 96/48/40
@@ -1315,7 +1307,6 @@ f  95/47/40 97/49/40 96/48/40
 
 # Mesh 'frm-nozzle1_4' with 12 faces
 g frm-nozzle1_4
-usemtl JoinedMaterial_#23
 f  95/51/41 99/52/42 100/53/43
 f  97/54/44 95/51/41 100/53/43
 f  94/55/45 101/56/46 99/52/42
@@ -1331,7 +1322,6 @@ f  98/51/51 97/54/44 104/52/52
 
 # Mesh 'frm-cube1_2' with 8 faces
 g frm-cube1_2
-usemtl JoinedMaterial_#23
 f  105/66/1 106/67/1 107/68/1
 f  108/69/1 105/66/1 107/68/1
 f  109/70/62 106/67/62 105/66/62
@@ -1343,7 +1333,6 @@ f  112/71/63 111/66/63 107/68/63
 
 # Mesh 'frm-engine_shpere1_3' with 60 faces
 g frm-engine_shpere1_3
-usemtl JoinedMaterial_#23
 f  113/8/9 114/9/10 115/10/11
 f  113/8/9 116/11/12 117/12/13
 f  114/9/10 113/8/9 117/12/13
@@ -1407,7 +1396,6 @@ f  120/15/16 113/8/9 115/10/11
 
 # Mesh 'frm-nozzle1_5' with 4 faces
 g frm-nozzle1_5
-usemtl JoinedMaterial_#23
 f  145/45/40 146/46/40 147/47/40
 f  148/48/40 145/45/40 147/47/40
 f  149/49/40 150/50/40 148/48/40
@@ -1415,7 +1403,6 @@ f  147/47/40 149/49/40 148/48/40
 
 # Mesh 'frm-nozzle1_5' with 12 faces
 g frm-nozzle1_5
-usemtl JoinedMaterial_#23
 f  147/51/41 151/52/42 152/53/43
 f  149/54/44 147/51/41 152/53/43
 f  146/55/45 153/56/46 151/52/42
@@ -1431,7 +1418,6 @@ f  150/51/51 149/54/44 156/52/52
 
 # Mesh 'frm-cube1' with 8 faces
 g frm-cube1
-usemtl JoinedMaterial_#23
 f  157/72/1 158/73/1 159/74/1
 f  160/75/1 157/72/1 159/74/1
 f  161/76/62 158/73/62 157/72/62
@@ -1443,7 +1429,6 @@ f  164/78/63 163/72/63 159/74/63
 
 # Mesh 'frm-engine_shpere1_2' with 60 faces
 g frm-engine_shpere1_2
-usemtl JoinedMaterial_#23
 f  165/8/9 166/9/10 167/10/11
 f  165/8/9 168/11/12 169/12/13
 f  166/9/10 165/8/9 169/12/13
@@ -1507,7 +1492,6 @@ f  172/15/16 165/8/9 167/10/11
 
 # Mesh 'frm-nozzle1_6' with 4 faces
 g frm-nozzle1_6
-usemtl JoinedMaterial_#23
 f  197/45/40 198/46/40 199/47/40
 f  200/48/40 197/45/40 199/47/40
 f  201/49/40 202/50/40 200/48/40
@@ -1515,7 +1499,6 @@ f  199/47/40 201/49/40 200/48/40
 
 # Mesh 'frm-nozzle1_6' with 12 faces
 g frm-nozzle1_6
-usemtl JoinedMaterial_#23
 f  199/51/41 203/52/42 204/53/43
 f  201/54/44 199/51/41 204/53/43
 f  198/55/45 205/56/46 203/52/42
@@ -1531,7 +1514,6 @@ f  202/51/51 201/54/44 208/52/52
 
 # Mesh 'frm-cube2' with 8 faces
 g frm-cube2
-usemtl JoinedMaterial_#23
 f  209/79/64 210/80/65 211/81/66
 f  212/82/67 209/79/64 211/81/66
 f  210/83/65 209/84/64 213/85/68
@@ -1543,7 +1525,6 @@ f  218/91/76 213/90/77 209/89/64
 
 # Mesh 'frm-cube2' with 6 faces
 g frm-cube2
-usemtl material2261
 f  219/92/78 216/93/79 211/94/80
 f  212/94/81 217/95/82 218/96/81
 f  209/97/83 212/94/81 218/96/81
@@ -1553,7 +1534,6 @@ f  211/94/80 210/97/84 219/92/78
 
 # Mesh 'frm-skin2' with 73 faces
 g frm-skin2
-usemtl JoinedMaterial_#22
 f  221/100/87 222/101/88 223/102/89
 f  224/103/90 223/102/89 225/104/91
 f  223/102/89 224/103/90 221/100/87
@@ -1630,7 +1610,6 @@ f  266/175/160 267/164/151 229/165/95
 
 # Mesh 'frm-skin2' with 258 faces
 g frm-skin2
-usemtl JoinedMaterial_#23
 f  269/176/161 270/177/162 271/178/163
 f  272/179/164 269/176/161 271/178/163
 f  271/178/163 270/177/162 273/180/165
@@ -1892,7 +1871,6 @@ f  313/337/205 309/338/201 314/336/206
 
 # Mesh 'frm-skin2_1' with 41 faces
 g frm-skin2_1
-usemtl JoinedMaterial_#23
 f  393/339/310 394/340/311 395/341/312
 f  395/341/312 396/342/313 393/339/310
 f  397/343/314 395/341/312 358/344/315

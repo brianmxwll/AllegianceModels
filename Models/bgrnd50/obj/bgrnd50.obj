@@ -156,7 +156,7 @@ vn -0.450546 -0.822838 -0.346333
 
 # Mesh 'frm-capper' with 80 faces
 g frm-capper
-usemtl material319
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 2/2/2 4/4/4
 f  2/2/2 5/5/5 4/4/4

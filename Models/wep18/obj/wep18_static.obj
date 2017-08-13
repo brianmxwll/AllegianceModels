@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib wep18_static.obj.mtl
 
 # 42 vertex positions
 v  0 -0.056239 -0.138737
@@ -174,7 +173,6 @@ vn -0 -0.730896 0.682489
 
 # Mesh 'frm-wepbar1' with 18 faces
 g frm-wepbar1
-usemtl material220
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/4
 f  2/2/5 5/5/6 3/3/7
@@ -196,13 +194,11 @@ f  8/8/21 7/7/21 12/6/21
 
 # Mesh 'frm-wepbar1' with 2 faces
 g frm-wepbar1
-usemtl JoinedMaterial_#3
 f  10/10/22 9/11/22 2/12/22
 f  10/10/22 2/12/22 1/13/22
 
 # Mesh 'frm-wepbar2' with 6 faces
 g frm-wepbar2
-usemtl JoinedMaterial_#3
 f  13/14/21 14/15/21 15/16/21
 f  16/14/21 13/14/21 15/16/21
 f  14/15/21 16/14/21 15/16/21
@@ -212,7 +208,6 @@ f  13/18/25 16/19/25 17/20/25
 
 # Mesh 'frm-wepbar3' with 6 faces
 g frm-wepbar3
-usemtl JoinedMaterial_#3
 f  18/16/22 19/15/22 20/14/22
 f  18/16/22 20/14/22 21/14/22
 f  18/16/22 21/14/22 19/15/22
@@ -222,13 +217,11 @@ f  22/20/28 21/19/28 20/18/28
 
 # Mesh 'frm-wepbas1' with 2 faces
 g frm-wepbas1
-usemtl JoinedMaterial_#9
 f  23/21/21 24/22/21 25/23/21
 f  23/21/21 25/23/21 26/24/21
 
 # Mesh 'frm-wepbas1' with 6 faces
 g frm-wepbas1
-usemtl JoinedMaterial_#8
 f  24/25/29 27/26/30 28/27/31
 f  24/25/29 28/27/31 25/28/32
 f  27/29/30 29/30/33 30/31/33
@@ -238,7 +231,6 @@ f  31/33/34 29/35/34 32/36/35
 
 # Mesh 'frm-wepbas1' with 8 faces
 g frm-wepbas1
-usemtl material570
 f  28/37/36 30/38/37 31/39/38
 f  28/37/36 31/39/38 33/40/39
 f  27/37/40 24/41/41 23/42/42
@@ -250,7 +242,6 @@ f  33/40/39 25/41/47 28/37/36
 
 # Mesh 'frm-wepbas1' with 4 faces
 g frm-wepbas1
-usemtl material579
 f  32/43/48 34/44/48 23/45/48
 f  32/43/48 23/45/48 26/46/48
 f  32/43/48 26/46/48 33/47/48
@@ -258,7 +249,6 @@ f  32/43/48 33/47/48 31/48/48
 
 # Mesh 'frm-wepbas2' with 8 faces
 g frm-wepbas2
-usemtl JoinedMaterial_#8
 f  35/49/49 36/50/50 37/51/51
 f  35/49/49 37/51/51 38/52/52
 f  39/50/53 40/49/54 41/52/55
@@ -270,7 +260,6 @@ f  36/57/50 42/59/56 37/60/51
 
 # Mesh 'frm-wepbas2' with 2 faces
 g frm-wepbas2
-usemtl JoinedMaterial_#9
 f  38/61/57 37/62/57 42/63/57
 f  38/61/57 42/63/57 41/64/57
 

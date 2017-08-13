@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib cap500_bound.obj.mtl
 
 # 102 vertex positions
 v  -2.7166 -1.78541 -3.69484
@@ -392,7 +391,6 @@ vn -0.970028 0.00355566 -0.242965
 
 # Mesh 'frm-bound01' with 102 faces
 g frm-bound01
-usemtl $Material_0
 f  1//1 2//2 3//3
 f  4//4 5//5 3//6
 f  6//7 4//4 3//6
@@ -498,7 +496,6 @@ f  48//86 38//69 39//68
 
 # Mesh 'frm-bound02' with 48 faces
 g frm-bound02
-usemtl $Material_0
 f  54//106 55//107 56//108
 f  57//109 56//110 58//111
 f  56//112 59//113 60//114
@@ -550,7 +547,6 @@ f  74//146 64//171 61//115
 
 # Mesh 'frm-bound3' with 52 faces
 g frm-bound3
-usemtl $Material_0
 f  81//172 82//173 83//174
 f  83//174 84//175 85//176
 f  81//172 83//174 85//176
@@ -606,7 +602,6 @@ f  92//239 82//240 81//239
 
 # Mesh 'frm-bound4' with 24 faces
 g frm-bound4
-usemtl $Material_0
 f  98//241 99//242 47//243
 f  49//244 98//245 47//243
 f  47//246 99//247 50//248

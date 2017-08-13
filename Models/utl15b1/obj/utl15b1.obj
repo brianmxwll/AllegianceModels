@@ -445,7 +445,7 @@ vn 0.961805 0.273735 0
 
 # Mesh 'frm-utl15b' with 48 faces
 g frm-utl15b
-usemtl JoinedMaterial_#7
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/4
 f  3/3/3 2/2/2 5/5/5
@@ -497,7 +497,7 @@ f  21/31/24 12/33/24 4/34/24
 
 # Mesh 'frm-utl15b' with 30 faces
 g frm-utl15b
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  29/35/25 33/36/26 16/37/27
 f  29/35/25 16/37/27 15/38/25
 f  33/36/26 14/39/28 16/37/27
@@ -531,13 +531,13 @@ f  34/64/53 30/35/54 17/38/54
 
 # Mesh 'frm-utl15b' with 2 faces
 g frm-utl15b
-usemtl material431
+usemtl MainMaterial
 f  30/65/23 29/66/23 15/67/23
 f  30/65/23 15/67/23 17/68/23
 
 # Mesh 'frm-front_door' with 32 faces
 g frm-front_door
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  41/69/55 42/70/56 43/71/57
 f  41/69/55 43/71/57 44/72/58
 f  42/70/56 45/73/59 46/74/60
@@ -573,7 +573,7 @@ f  71/110/83 44/114/58 72/111/84
 
 # Mesh 'frm-front_door' with 14 faces
 g frm-front_door
-usemtl material944
+usemtl MainMaterial
 f  50/115/20 48/116/20 45/117/20
 f  50/115/20 45/117/20 42/118/20
 f  42/118/20 51/119/20 50/115/20
@@ -591,7 +591,7 @@ f  66/128/20 64/130/20 61/129/20
 
 # Mesh 'frm-front_door' with 14 faces
 g frm-front_door
-usemtl JoinedMaterial_#7
+usemtl MainMaterial
 f  65/131/13 56/132/13 58/133/13
 f  65/131/13 58/133/13 60/134/13
 f  70/135/13 54/136/13 56/132/13
@@ -609,7 +609,7 @@ f  43/144/13 46/146/13 47/145/13
 
 # Mesh 'frm-back_door' with 32 faces
 g frm-back_door
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  73/147/85 74/148/86 75/149/87
 f  73/147/85 75/149/87 76/150/88
 f  74/148/86 77/151/89 78/152/90
@@ -645,7 +645,7 @@ f  103/186/107 76/190/88 104/187/108
 
 # Mesh 'frm-back_door' with 14 faces
 g frm-back_door
-usemtl JoinedMaterial_#7
+usemtl MainMaterial
 f  98/191/20 96/192/20 93/193/20
 f  98/191/20 93/193/20 91/194/20
 f  91/194/20 99/195/20 98/191/20
@@ -663,7 +663,7 @@ f  82/204/20 80/206/20 77/205/20
 
 # Mesh 'frm-back_door' with 14 faces
 g frm-back_door
-usemtl material1418
+usemtl MainMaterial
 f  81/207/13 104/208/13 76/209/13
 f  81/207/13 76/209/13 75/210/13
 f  86/211/13 102/212/13 104/208/13

@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib fig20_static.obj.mtl
 
 # 333 vertex positions
 v  0.243269 1.02959 0.658886
@@ -996,7 +995,6 @@ vn 0.610863 0.166126 0.774112
 
 # Mesh 'frm-canopy_1' with 87 faces
 g frm-canopy_1
-usemtl JoinedMaterial_#15
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 4/4/4 1/1/1
 f  5/5/5 1/1/1 4/4/4
@@ -1087,7 +1085,6 @@ f  27/62/92 21/58/94 36/60/93
 
 # Mesh 'frm-l-t-engine' with 58 faces
 g frm-l-t-engine
-usemtl JoinedMaterial_#15
 f  47/66/95 48/67/95 49/68/95
 f  50/69/95 49/68/95 48/67/95
 f  51/70/95 50/69/95 48/67/95
@@ -1149,7 +1146,6 @@ f  70/92/116 79/87/127 69/93/115
 
 # Mesh 'frm-center-wing' with 51 faces
 g frm-center-wing
-usemtl JoinedMaterial_#15
 f  80/95/134 81/96/135 82/97/136
 f  82/97/136 83/98/137 80/95/138
 f  83/98/137 84/99/139 80/95/138
@@ -1204,13 +1200,11 @@ f  88/121/148 89/116/147 84/119/169
 
 # Mesh 'frm-center-wing' with 2 faces
 g frm-center-wing
-usemtl JoinedMaterial_#15
 l  84/99 89/102
 l  108/102 85/99
 
 # Mesh 'frm-bottom_gun' with 23 faces
 g frm-bottom_gun
-usemtl JoinedMaterial_#15
 f  110/122/199 111/123/199 112/124/199
 f  113/125/199 110/122/199 112/124/199
 f  112/124/199 114/126/199 113/125/199
@@ -1237,7 +1231,6 @@ f  122/132/223 121/134/212 124/131/221
 
 # Mesh 'frm-rt-wing1' with 57 faces
 g frm-rt-wing1
-usemtl JoinedMaterial_#15
 f  125/142/224 126/143/225 127/144/226
 f  126/143/227 125/142/228 128/145/229
 f  129/146/230 126/143/231 128/145/229
@@ -1298,7 +1291,6 @@ f  130/147/290 126/143/291 129/146/276
 
 # Mesh 'frm-gun' with 33 faces
 g frm-gun
-usemtl JoinedMaterial_#15
 f  156/175/95 157/176/95 158/177/95
 f  159/175/95 156/175/95 158/177/95
 f  158/177/95 160/176/95 159/175/95
@@ -1335,7 +1327,6 @@ f  164/181/326 170/181/325 163/180/296
 
 # Mesh 'frm-rt-wing5' with 58 faces
 g frm-rt-wing5
-usemtl JoinedMaterial_#15
 f  176/144/226 177/143/327 178/142/328
 f  179/154/329 180/156/330 178/142/331
 f  181/150/332 179/154/329 178/142/333
@@ -1397,7 +1388,6 @@ f  194/169/392 191/158/392 192/170/392
 
 # Mesh 'frm-gun1' with 33 faces
 g frm-gun1
-usemtl JoinedMaterial_#15
 f  207/176/95 208/177/95 209/176/95
 f  210/175/95 207/176/95 209/176/95
 f  209/176/95 211/175/95 210/175/95
@@ -1434,7 +1424,6 @@ f  214/183/307 219/187/320 226/185/417
 
 # Mesh 'frm-engine-nib' with 8 faces
 g frm-engine-nib
-usemtl JoinedMaterial_#15
 f  227/188/420 228/189/420 229/190/420
 f  230/191/420 227/188/420 229/190/420
 f  229/192/421 228/193/421 231/194/421
@@ -1446,7 +1435,6 @@ f  234/197/422 230/191/422 232/196/422
 
 # Mesh 'frm-l-t-engine3' with 58 faces
 g frm-l-t-engine3
-usemtl JoinedMaterial_#15
 f  235/73/95 236/68/95 237/67/95
 f  238/71/95 237/67/95 236/68/95
 f  239/70/95 238/71/95 236/68/95
@@ -1508,7 +1496,6 @@ f  255/93/435 264/79/449 256/92/436
 
 # Mesh 'frm-l-t-engine5' with 58 faces
 g frm-l-t-engine5
-usemtl JoinedMaterial_#15
 f  268/73/95 269/68/95 270/67/95
 f  271/71/95 270/67/95 269/68/95
 f  272/70/95 271/71/95 269/68/95
@@ -1570,7 +1557,6 @@ f  288/93/435 297/79/449 289/92/436
 
 # Mesh 'frm-l-t-engine4' with 58 faces
 g frm-l-t-engine4
-usemtl JoinedMaterial_#15
 f  301/66/95 302/67/95 303/68/95
 f  304/69/95 303/68/95 302/67/95
 f  305/70/95 304/69/95 302/67/95

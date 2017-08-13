@@ -167,7 +167,7 @@ vn -0.813264 -0.348112 0.466283
 
 # Mesh 'frm-sphere1' with 84 faces
 g frm-sphere1
-usemtl material433
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 3/3/3 2/2/5
 f  4/4/4 2/2/6 5/5/7

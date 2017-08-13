@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib rix_flagplat.obj.mtl
 
 # 86 vertex positions
 v  -0.157364 -0.160066 2.58223
@@ -274,7 +273,6 @@ vn -0.942873 -0.333153 0
 
 # Mesh 'frm-fuselg6' with 54 faces
 g frm-fuselg6
-usemtl JoinedMaterial_#3
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 3/3/3 2/2/2
 f  5/5/5 1/1/6 3/3/3
@@ -332,7 +330,6 @@ f  45/38/61 43/39/62 37/41/66
 
 # Mesh 'frm-fuselg6' with 42 faces
 g frm-fuselg6
-usemtl JoinedMaterial_#5
 f  17/47/67 46/48/68 24/49/69
 f  46/48/68 17/47/67 9/50/70
 f  29/51/71 46/48/68 9/50/70
@@ -378,7 +375,6 @@ f  27/22/99 26/19/74 50/21/98
 
 # Mesh 'frm-ss01' with 4 faces
 g frm-ss01
-usemtl JoinedMaterial_#14
 f  51//100 52//100 53//100
 f  52//101 51//101 54//101
 f  53//102 54//102 51//102
@@ -386,7 +382,6 @@ f  54//103 53//103 52//103
 
 # Mesh 'frm-ss4' with 4 faces
 g frm-ss4
-usemtl JoinedMaterial_#14
 f  55//100 56//100 57//100
 f  56//101 55//101 58//101
 f  57//102 58//102 55//102
@@ -394,7 +389,6 @@ f  58//103 57//103 56//103
 
 # Mesh 'frm-ss3' with 4 faces
 g frm-ss3
-usemtl JoinedMaterial_#14
 f  59//100 60//100 61//100
 f  60//101 59//101 62//101
 f  61//102 62//102 59//102
@@ -402,7 +396,6 @@ f  62//103 61//103 60//103
 
 # Mesh 'frm-ss2' with 4 faces
 g frm-ss2
-usemtl JoinedMaterial_#14
 f  63//100 64//100 65//100
 f  64//101 63//101 66//101
 f  65//102 66//102 63//102
@@ -410,7 +403,6 @@ f  66//103 65//103 64//103
 
 # Mesh 'frm-ss5' with 4 faces
 g frm-ss5
-usemtl JoinedMaterial_#14
 f  67//100 68//100 69//100
 f  68//101 67//101 70//101
 f  69//102 70//102 67//102
@@ -418,7 +410,6 @@ f  70//103 69//103 68//103
 
 # Mesh 'frm-ss7' with 4 faces
 g frm-ss7
-usemtl JoinedMaterial_#14
 f  71//100 72//100 73//100
 f  72//101 71//101 74//101
 f  73//102 74//102 71//102
@@ -426,7 +417,6 @@ f  74//103 73//103 72//103
 
 # Mesh 'frm-ss6' with 4 faces
 g frm-ss6
-usemtl JoinedMaterial_#14
 f  75//100 76//100 77//100
 f  76//101 75//101 78//101
 f  77//102 78//102 75//102
@@ -434,7 +424,6 @@ f  78//103 77//103 76//103
 
 # Mesh 'frm-ss8' with 4 faces
 g frm-ss8
-usemtl JoinedMaterial_#14
 f  79//100 80//100 81//100
 f  80//101 79//101 82//101
 f  81//102 82//102 79//102
@@ -442,7 +431,6 @@ f  82//103 81//103 80//103
 
 # Mesh 'frm-ss9' with 4 faces
 g frm-ss9
-usemtl JoinedMaterial_#14
 f  83//100 84//100 85//100
 f  84//101 83//101 86//101
 f  85//102 86//102 83//102

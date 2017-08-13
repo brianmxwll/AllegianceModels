@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ops2_static.obj.mtl
 
 # 244 vertex positions
 v  -1.66734 -0.878545 -5.648
@@ -869,7 +868,6 @@ vn -0.0565925 -0.98839 -0.141003
 
 # Mesh 'frm-Hull' with 80 faces
 g frm-Hull
-usemtl JoinedMaterial_#16
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 5/5/5 3/3/3
 f  3/3/3 5/5/5 1/1/1
@@ -953,7 +951,6 @@ f  45/43/118 33/32/105 23/22/50
 
 # Mesh 'frm-Hull' with 62 faces
 g frm-Hull
-usemtl JoinedMaterial_#3
 f  46/46/119 48/47/120 49/48/121
 f  49/48/121 48/47/120 50/49/122
 f  48/47/123 51/50/124 50/49/125
@@ -1019,7 +1016,6 @@ f  21/94/177 20/84/176 23/87/172
 
 # Mesh 'frm-Battle_Bridge' with 34 faces
 g frm-Battle_Bridge
-usemtl JoinedMaterial_#21
 f  74/95/178 75/96/179 76/97/180
 f  77/98/181 74/95/178 76/97/180
 f  78/99/182 75/96/179 74/95/178
@@ -1057,7 +1053,6 @@ f  83/99/191 84/96/192 82/103/187
 
 # Mesh 'frm-Saucer' with 96 faces
 g frm-Saucer
-usemtl JoinedMaterial_#21
 f  93/116/217 94/117/218 95/118/219
 f  96/119/220 93/116/217 95/118/219
 f  97/120/221 96/119/220 95/118/219
@@ -1157,7 +1152,6 @@ f  130/125/256 118/141/282 117/140/280
 
 # Mesh 'frm-lthrust' with 12 faces
 g frm-lthrust
-usemtl JoinedMaterial_#16
 f  143//283 144//283 145//283
 f  146//283 143//283 145//283
 f  147//284 148//284 144//284
@@ -1173,7 +1167,6 @@ f  145//266 144//266 150//266
 
 # Mesh 'frm-rthrust' with 12 faces
 g frm-rthrust
-usemtl JoinedMaterial_#16
 f  151//283 152//283 153//283
 f  154//283 151//283 153//283
 f  155//284 156//284 152//284
@@ -1189,7 +1182,6 @@ f  153//266 152//266 158//266
 
 # Mesh 'frm-trail' with 12 faces
 g frm-trail
-usemtl JoinedMaterial_#16
 f  159//283 160//283 161//283
 f  162//283 159//283 161//283
 f  163//284 164//284 160//284
@@ -1205,7 +1197,6 @@ f  161//266 160//266 166//266
 
 # Mesh 'frm-cockpt' with 12 faces
 g frm-cockpt
-usemtl JoinedMaterial_#16
 f  167//283 168//283 169//283
 f  170//283 167//283 169//283
 f  171//284 172//284 168//284
@@ -1221,7 +1212,6 @@ f  169//266 168//266 174//266
 
 # Mesh 'frm-missemt' with 12 faces
 g frm-missemt
-usemtl JoinedMaterial_#16
 f  175//283 176//283 177//283
 f  178//283 175//283 177//283
 f  179//266 180//266 176//266
@@ -1237,7 +1227,6 @@ f  177//286 176//286 182//286
 
 # Mesh 'frm-turwepemt1' with 4 faces
 g frm-turwepemt1
-usemtl JoinedMaterial_#16
 f  183//287 184//287 185//287
 f  184//288 183//288 186//288
 f  185//289 186//289 183//289
@@ -1245,7 +1234,6 @@ f  186//290 185//290 184//290
 
 # Mesh 'frm-lwepemt' with 4 faces
 g frm-lwepemt
-usemtl JoinedMaterial_#16
 f  187//291 188//291 189//291
 f  188//292 187//292 190//292
 f  189//284 190//284 187//284
@@ -1253,7 +1241,6 @@ f  190//293 189//293 188//293
 
 # Mesh 'frm-rwepemt' with 4 faces
 g frm-rwepemt
-usemtl JoinedMaterial_#16
 f  191//294 192//294 193//294
 f  192//295 191//295 194//295
 f  193//284 194//284 191//284
@@ -1261,7 +1248,6 @@ f  194//296 193//296 192//296
 
 # Mesh 'frm-turwepemt2' with 4 faces
 g frm-turwepemt2
-usemtl JoinedMaterial_#16
 f  195//297 196//297 197//297
 f  196//298 195//298 198//298
 f  197//299 198//299 195//299
@@ -1269,7 +1255,6 @@ f  198//300 197//300 196//300
 
 # Mesh 'frm-lsmoke' with 12 faces
 g frm-lsmoke
-usemtl JoinedMaterial_#16
 f  143//283 144//283 145//283
 f  146//283 143//283 145//283
 f  147//284 148//284 144//284
@@ -1285,7 +1270,6 @@ f  145//266 144//266 150//266
 
 # Mesh 'frm-rsmoke' with 12 faces
 g frm-rsmoke
-usemtl JoinedMaterial_#16
 f  151//283 152//283 153//283
 f  154//283 151//283 153//283
 f  155//284 156//284 152//284
@@ -1301,7 +1285,6 @@ f  153//266 152//266 158//266
 
 # Mesh 'frm-Starbord_Engine1' with 10 faces
 g frm-Starbord_Engine1
-usemtl JoinedMaterial_#22
 f  199/149/301 200/150/302 201/151/303
 f  202/152/304 199/149/301 201/151/303
 f  203/150/305 204/151/306 205/152/307
@@ -1315,7 +1298,6 @@ f  203/150/286 205/151/319 208/152/320
 
 # Mesh 'frm-Starbord_Engine1' with 14 faces
 g frm-Starbord_Engine1
-usemtl JoinedMaterial_#21
 f  210/153/321 211/154/322 202/155/323
 f  199/156/324 202/155/325 211/154/326
 f  206/157/327 211/154/322 210/153/321
@@ -1333,7 +1315,6 @@ f  202/154/323 201/153/336 210/155/341
 
 # Mesh 'frm-Starbord_Core1' with 14 faces
 g frm-Starbord_Core1
-usemtl JoinedMaterial_#22
 f  213/164/342 214/165/343 215/166/344
 f  216/167/345 213/164/342 215/166/344
 f  217/168/346 218/169/347 214/165/348
@@ -1351,7 +1332,6 @@ f  219/170/367 217/168/349 216/167/366
 
 # Mesh 'frm-Starbord_Engine2' with 10 faces
 g frm-Starbord_Engine2
-usemtl JoinedMaterial_#22
 f  222/150/368 223/149/369 224/152/370
 f  225/151/371 222/150/368 224/152/370
 f  226/152/372 227/151/373 228/150/374
@@ -1365,7 +1345,6 @@ f  231/152/386 226/151/387 228/150/284
 
 # Mesh 'frm-Starbord_Engine2' with 14 faces
 g frm-Starbord_Engine2
-usemtl JoinedMaterial_#21
 f  224/155/388 233/154/389 234/153/390
 f  234/153/390 233/154/389 230/157/391
 f  224/155/392 223/156/393 227/159/394
@@ -1383,7 +1362,6 @@ f  234/155/408 225/153/405 224/154/388
 
 # Mesh 'frm-Starbord_Core2' with 14 faces
 g frm-Starbord_Core2
-usemtl JoinedMaterial_#22
 f  236/165/409 237/164/410 238/167/411
 f  239/166/412 236/165/409 238/167/411
 f  240/169/413 241/168/414 237/164/415

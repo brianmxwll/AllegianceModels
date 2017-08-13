@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib bgrnd50_static.obj.mtl
 
 # 42 vertex positions
 v  3.3e-005 -4.89455 -0.001919
@@ -156,7 +155,6 @@ vn -0.450546 -0.822838 -0.346333
 
 # Mesh 'frm-capper' with 80 faces
 g frm-capper
-usemtl material319
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 2/2/2 4/4/4
 f  2/2/2 5/5/5 4/4/4

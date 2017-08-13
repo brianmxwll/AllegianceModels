@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib bgrnd05-low.obj.mtl
 
 # 6 vertex positions
 v  5.04 0 0
@@ -51,7 +50,6 @@ vn -0.301511 0.301511 0.904534
 
 # Mesh 'frm-low' with 8 faces
 g frm-low
-usemtl material190
 f  1/1/1 2/2/2 3/3/3
 f  2/2/4 4/4/5 3/3/6
 f  5/5/7 1/1/8 3/3/9

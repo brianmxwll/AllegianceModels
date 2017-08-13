@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib globe9.obj.mtl
 
 # 66 vertex positions
 v  3.21394 -3.83022 0
@@ -231,7 +230,6 @@ vn 0.871329 0.489395 0.035744
 
 # Mesh 'frm-sphere3' with 128 faces
 g frm-sphere3
-usemtl material399
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  4/4/4 3/3/3 5/5/5

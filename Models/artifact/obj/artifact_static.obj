@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib artifact_static.obj.mtl
 
 # 58 vertex positions
 v  2.13502 -7.28941 -2.13502
@@ -376,7 +375,6 @@ vn 0.222407 0.959894 -0.170698
 
 # Mesh 'frm-sphere2' with 112 faces
 g frm-sphere2
-usemtl material478
 f  1/1/1 2/2/2 3/3/3
 f  2/2/4 4/4/5 3/3/6
 f  2/2/7 1/1/8 5/5/9

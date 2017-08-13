@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl91_static.obj.mtl
 
 # 195 vertex positions
 v  -0.857248 -0.221932 0.583745
@@ -887,7 +886,6 @@ vn -0.671326 -0.741162 1.56646e-008
 
 # Mesh 'frm-fuselg' with 127 faces
 g frm-fuselg
-usemtl JoinedMaterial_#17
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/5 3/3/3
 f  5/1/6 6/2/7 7/3/8
@@ -1018,7 +1016,6 @@ f  21/108/28 22/109/115 74/107/117
 
 # Mesh 'frm-fuselg' with 82 faces
 g frm-fuselg
-usemtl material934
 f  72/111/124 38/112/125 39/113/126
 f  79/114/127 72/111/124 39/113/126
 f  39/113/126 63/115/128 80/116/129
@@ -1104,7 +1101,6 @@ f  95/143/156 43/141/154 33/164/177
 
 # Mesh 'frm-fuselg' with 100 faces
 g frm-fuselg
-usemtl JoinedMaterial_#18
 f  109/165/178 110/165/179 111/166/180
 f  112/167/181 113/167/182 111/166/183
 f  111/166/184 113/167/185 109/165/186
@@ -1208,7 +1204,6 @@ f  145/234/318 148/236/315 155/243/317
 
 # Mesh 'frm-rwepbar' with 24 faces
 g frm-rwepbar
-usemtl JoinedMaterial_#17
 f  158/249/319 159/250/320 160/251/321
 f  161/252/322 158/249/323 160/251/321
 f  162/253/229 163/254/229 164/254/229
@@ -1236,7 +1231,6 @@ f  160/257/321 167/255/328 161/257/322
 
 # Mesh 'frm-lwepbar' with 24 faces
 g frm-lwepbar
-usemtl JoinedMaterial_#17
 f  172/250/355 173/249/356 174/252/357
 f  175/251/358 172/250/355 174/252/359
 f  176/254/229 177/253/229 178/253/360
@@ -1264,7 +1258,6 @@ f  174/257/359 181/255/365 175/257/358
 
 # Mesh 'frm-cube1' with 14 faces
 g frm-cube1
-usemtl JoinedMaterial_#18
 f  186/262/389 187/263/390 188/264/391
 f  189/265/392 186/262/389 188/264/391
 f  188/264/393 190/266/394 191/267/395

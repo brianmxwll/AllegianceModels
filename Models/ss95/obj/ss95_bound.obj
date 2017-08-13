@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss95_bound.obj.mtl
 
 # 43 vertex positions
 v  0.80097 0.124625 -0.80097
@@ -111,7 +110,6 @@ vn 0.900448 -0.372978 -0.223787
 
 # Mesh 'frm-bound2' with 62 faces
 g frm-bound2
-usemtl $Material_0
 f  1//1 2//2 3//3
 f  4//4 5//5 3//3
 f  2//2 6//6 3//3
@@ -177,7 +175,6 @@ f  26//30 15//15 14//14
 
 # Mesh 'frm-bound1' with 16 faces
 g frm-bound1
-usemtl $Material_0
 f  34//23 35//23 36//38
 f  35//39 34//40 37//41
 f  38//23 34//23 36//38

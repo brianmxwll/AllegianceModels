@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib acs04_static.obj.mtl
 
 # 100 vertex positions
 v  3.2351 3.33175 -1.89691
@@ -314,7 +313,6 @@ vn 0.00830768 -0 -0.999965
 
 # Mesh 'frm-turret' with 18 faces
 g frm-turret
-usemtl JoinedMaterial_#22
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  5/5/5 4/4/4 3/3/3
@@ -336,7 +334,6 @@ f  13/11/13 9/10/9 5/5/5
 
 # Mesh 'frm-rwepbas' with 20 faces
 g frm-rwepbas
-usemtl JoinedMaterial_#22
 f  14/13/14 15/14/15 16/15/16
 f  17/16/17 14/13/14 16/15/16
 f  18/17/18 19/18/19 20/19/20
@@ -360,7 +357,6 @@ f  18/34/18 17/38/17 25/35/38
 
 # Mesh 'frm-cyl2' with 16 faces
 g frm-cyl2
-usemtl JoinedMaterial_#22
 f  26/40/40 27/41/41 28/42/42
 f  29/43/43 26/40/40 28/42/42
 f  30/44/44 31/45/45 27/41/41
@@ -380,7 +376,6 @@ f  35/52/52 37/53/52 28/51/52
 
 # Mesh 'frm-lwepbas' with 20 faces
 g frm-lwepbas
-usemtl JoinedMaterial_#22
 f  38/15/53 39/14/54 40/13/55
 f  38/15/53 40/13/55 41/16/56
 f  42/19/57 43/18/58 44/17/59
@@ -404,7 +399,6 @@ f  49/35/77 38/39/53 41/38/56
 
 # Mesh 'frm-cyl3' with 16 faces
 g frm-cyl3
-usemtl JoinedMaterial_#22
 f  50/41/78 51/40/79 52/43/80
 f  53/42/81 50/41/78 52/43/80
 f  54/45/82 55/44/83 51/40/79
@@ -424,7 +418,6 @@ f  60/53/52 58/52/52 56/50/52
 
 # Mesh 'frm-cyl1' with 30 faces
 g frm-cyl1
-usemtl JoinedMaterial_#22
 f  62/54/90 63/55/91 64/56/92
 f  65/57/93 62/54/90 64/56/92
 f  65/57/93 64/56/92 66/55/94
@@ -458,7 +451,6 @@ f  73/69/101 76/70/104 78/68/106
 
 # Mesh 'frm-cube2' with 6 faces
 g frm-cube2
-usemtl JoinedMaterial_#22
 f  79/72/107 80/73/108 81/73/108
 f  82/72/109 79/72/107 81/73/108
 f  83/74/110 80/73/110 79/72/111
@@ -468,7 +460,6 @@ f  83/74/52 79/72/107 82/72/109
 
 # Mesh 'frm-cube4' with 8 faces
 g frm-cube4
-usemtl JoinedMaterial_#22
 f  84/75/52 85/76/52 86/75/52
 f  85/75/114 87/75/114 88/77/114
 f  86/77/114 85/75/114 88/77/114
@@ -480,7 +471,6 @@ f  88/82/23 87/77/23 89/77/23
 
 # Mesh 'frm-cube1' with 6 faces
 g frm-cube1
-usemtl JoinedMaterial_#22
 f  90/73/108 91/72/109 92/72/107
 f  93/73/108 90/73/108 92/72/107
 f  90/73/117 93/73/113 94/74/117
@@ -490,7 +480,6 @@ f  92/72/107 91/72/109 94/74/52
 
 # Mesh 'frm-cube3' with 8 faces
 g frm-cube3
-usemtl JoinedMaterial_#22
 f  95/75/52 96/76/52 97/75/52
 f  98/75/114 96/75/114 95/77/114
 f  99/77/114 98/75/114 95/77/114

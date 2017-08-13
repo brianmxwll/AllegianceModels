@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib wep17_static.obj.mtl
 
 # 138 vertex positions
 v  0.027413 0.089335 -0.144562
@@ -406,7 +405,6 @@ vn -0 1 0
 
 # Mesh 'frm-wepbar1' with 10 faces
 g frm-wepbar1
-usemtl JoinedMaterial_#18
 f  1/1/1 2/2/2 3/3/1
 f  1/1/1 3/3/1 4/4/3
 f  5/2/4 6/1/5 7/4/4
@@ -420,7 +418,6 @@ f  6/12/10 2/10/10 1/9/11
 
 # Mesh 'frm-wepbar2' with 34 faces
 g frm-wepbar2
-usemtl material420
 f  9/13/12 10/14/13 11/15/14
 f  9/13/12 11/15/14 12/16/15
 f  13/17/16 12/16/15 11/15/14
@@ -458,7 +455,6 @@ f  32/36/69 31/35/67 30/34/61
 
 # Mesh 'frm-wepbar2' with 8 faces
 g frm-wepbar2
-usemtl JoinedMaterial_#18
 f  22/37/70 15/38/71 32/39/72
 f  22/37/70 32/39/72 27/40/73
 f  15/41/71 22/42/70 20/43/74
@@ -470,13 +466,11 @@ f  22/49/70 25/51/78 24/52/79
 
 # Mesh 'frm-wepbar2' with 2 faces
 g frm-wepbar2
-usemtl JoinedMaterial_#15
 f  27/53/80 32/54/81 30/55/80
 f  27/53/80 30/55/80 29/56/82
 
 # Mesh 'frm-wepbas1' with 28 faces
 g frm-wepbas1
-usemtl JoinedMaterial_#6
 f  33/57/83 34/58/84 35/59/85
 f  33/57/83 35/59/85 36/60/86
 f  37/61/87 38/62/88 34/58/84
@@ -508,7 +502,6 @@ f  38/61/88 50/58/100 34/57/84
 
 # Mesh 'frm-wepbas1' with 4 faces
 g frm-wepbas1
-usemtl JoinedMaterial_#18
 f  37/77/7 39/78/7 49/79/7
 f  37/77/7 49/79/7 38/80/7
 f  37/77/7 48/81/7 40/82/7
@@ -516,7 +509,6 @@ f  37/77/7 40/82/7 39/78/7
 
 # Mesh 'frm-wepbase3' with 12 faces
 g frm-wepbase3
-usemtl JoinedMaterial_#6
 f  51/83/101 52/84/102 53/85/103
 f  51/83/101 53/85/103 54/86/104
 f  55/87/105 52/84/102 51/83/101
@@ -532,7 +524,6 @@ f  54/86/7 60/85/7 59/86/7
 
 # Mesh 'frm-wepbase3' with 6 faces
 g frm-wepbase3
-usemtl material948
 f  52/89/113 57/90/113 60/91/113
 f  52/89/113 60/91/113 53/92/113
 f  62/93/114 55/94/114 56/95/115
@@ -542,13 +533,11 @@ f  61/96/116 54/92/117 59/91/117
 
 # Mesh 'frm-wepbase3' with 2 faces
 g frm-wepbase3
-usemtl material957
 f  62/97/118 57/98/118 52/99/118
 f  62/97/118 52/99/118 55/100/118
 
 # Mesh 'frm-wepbase2' with 16 faces
 g frm-wepbase2
-usemtl JoinedMaterial_#18
 f  63/101/119 64/102/120 65/103/121
 f  63/101/119 65/103/121 66/104/122
 f  67/105/123 63/101/119 66/104/122
@@ -568,7 +557,6 @@ f  73/109/7 64/114/7 63/113/7
 
 # Mesh 'frm-wepbar4' with 10 faces
 g frm-wepbar4
-usemtl JoinedMaterial_#18
 f  75/115/117 76/116/117 77/117/117
 f  75/115/117 77/117/117 78/118/117
 f  76/116/7 79/116/7 80/117/7
@@ -582,7 +570,6 @@ f  81/115/131 76/117/131 75/118/131
 
 # Mesh 'frm-wepbar5' with 10 faces
 g frm-wepbar5
-usemtl JoinedMaterial_#18
 f  83/121/117 84/122/117 85/123/117
 f  83/121/117 85/123/117 86/124/117
 f  87/122/113 88/121/113 89/124/113
@@ -596,7 +583,6 @@ f  88/121/131 84/123/131 83/124/131
 
 # Mesh 'frm-wepbar7' with 10 faces
 g frm-wepbar7
-usemtl JoinedMaterial_#18
 f  91/115/117 92/116/117 93/117/117
 f  91/115/117 93/117/117 94/118/117
 f  92/116/7 95/116/7 96/117/7
@@ -610,7 +596,6 @@ f  97/115/131 92/117/131 91/118/131
 
 # Mesh 'frm-wepbar8' with 10 faces
 g frm-wepbar8
-usemtl JoinedMaterial_#18
 f  99/121/117 100/122/117 101/123/117
 f  99/121/117 101/123/117 102/124/117
 f  103/122/113 104/121/113 105/124/113
@@ -624,7 +609,6 @@ f  104/121/131 100/123/131 99/124/131
 
 # Mesh 'frm-wepbar13' with 6 faces
 g frm-wepbar13
-usemtl JoinedMaterial_#18
 f  107/115/117 108/116/117 109/117/117
 f  107/115/117 109/117/117 110/118/117
 f  108/116/7 111/116/7 112/117/7
@@ -634,7 +618,6 @@ f  111/116/113 114/118/113 112/117/113
 
 # Mesh 'frm-wepbar13' with 4 faces
 g frm-wepbar13
-usemtl JoinedMaterial_#15
 f  110/118/110 109/117/110 112/119/110
 f  110/118/110 112/119/110 114/120/110
 f  113/115/131 111/116/131 108/117/131
@@ -642,7 +625,6 @@ f  113/115/131 108/117/131 107/118/131
 
 # Mesh 'frm-wepbar14' with 10 faces
 g frm-wepbar14
-usemtl JoinedMaterial_#18
 f  115/121/117 116/122/117 117/123/117
 f  115/121/117 117/123/117 118/124/117
 f  119/122/113 120/121/113 121/124/113
@@ -656,7 +638,6 @@ f  120/121/131 116/123/131 115/124/131
 
 # Mesh 'frm-wepbar10' with 10 faces
 g frm-wepbar10
-usemtl JoinedMaterial_#18
 f  123/115/117 124/116/117 125/117/117
 f  123/115/117 125/117/117 126/118/117
 f  124/116/7 127/116/7 128/117/7
@@ -670,7 +651,6 @@ f  129/115/131 124/117/131 123/118/131
 
 # Mesh 'frm-wepbar11' with 10 faces
 g frm-wepbar11
-usemtl JoinedMaterial_#18
 f  131/121/117 132/122/117 133/123/117
 f  131/121/117 133/123/117 134/124/117
 f  135/122/113 136/121/113 137/124/113

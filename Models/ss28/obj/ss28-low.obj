@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss28-low.obj.mtl
 
 # 273 vertex positions
 v  4.73504 -20.8986 -0.686017
@@ -1059,7 +1058,6 @@ vn 1.87153e-007 -1 1.65652e-007
 
 # Mesh 'frm-cube1' with 78 faces
 g frm-cube1
-usemtl JoinedMaterial_#16
 f  1/1/1 2/1/2 3/1/3
 f  4/2/4 1/1/1 3/1/3
 f  5/1/5 4/2/4 3/1/3
@@ -1141,7 +1139,6 @@ f  23/29/33 13/28/32 19/61/68
 
 # Mesh 'frm-cube2' with 10 faces
 g frm-cube2
-usemtl JoinedMaterial_#16
 f  43/62/124 44/63/125 45/64/124
 f  46/65/126 43/62/124 45/64/124
 f  46/65/127 45/64/128 47/66/129
@@ -1155,7 +1152,6 @@ f  48/72/127 50/69/134 46/71/127
 
 # Mesh 'frm-cube3' with 20 faces
 g frm-cube3
-usemtl JoinedMaterial_#16
 f  51/73/135 52/74/136 53/75/137
 f  54/76/138 51/73/139 53/75/140
 f  55/77/133 51/78/133 54/7/133
@@ -1179,7 +1175,6 @@ f  56/80/143 61/51/151 58/49/144
 
 # Mesh 'frm-east_bay_strut2' with 12 faces
 g frm-east_bay_strut2
-usemtl JoinedMaterial_#16
 f  63/85/153 64/86/154 65/87/155
 f  66/88/156 63/85/153 65/87/155
 f  64/24/154 67/89/157 68/90/158
@@ -1195,7 +1190,6 @@ f  69/92/172 71/93/173 66/94/170
 
 # Mesh 'frm-east_bay_strut_2' with 16 faces
 g frm-east_bay_strut_2
-usemtl JoinedMaterial_#16
 f  72/95/174 73/96/175 74/97/176
 f  75/98/177 72/95/174 74/97/176
 f  73/99/178 72/100/179 76/97/180
@@ -1215,7 +1209,6 @@ f  79/116/184 83/113/198 72/115/185
 
 # Mesh 'frm-COLORED_BAY' with 22 faces
 g frm-COLORED_BAY
-usemtl JoinedMaterial_#16
 f  84/117/199 85/118/200 86/119/201
 f  85/118/200 87/120/202 86/119/201
 f  86/119/201 88/121/203 84/117/199
@@ -1241,7 +1234,6 @@ f  92/132/218 90/135/217 97/133/215
 
 # Mesh 'frm-COLORED_BAY' with 16 faces
 g frm-COLORED_BAY
-usemtl JoinedMaterial_#14
 f  99/140/219 100/141/220 92/142/221
 f  97/143/222 99/140/219 92/142/221
 f  95/144/223 86/145/224 101/146/225
@@ -1261,7 +1253,6 @@ f  96/162/238 98/163/234 103/161/237
 
 # Mesh 'frm-COLORED_BAY' with 8 faces
 g frm-COLORED_BAY
-usemtl JoinedMaterial_#27
 f  106/164/239 105/165/240 100/166/241
 f  99/167/242 106/164/239 100/166/241
 f  103/168/243 106/169/239 99/170/242
@@ -1273,7 +1264,6 @@ f  100/179/250 105/176/248 101/178/248
 
 # Mesh 'frm-cube4' with 16 faces
 g frm-cube4
-usemtl JoinedMaterial_#12
 f  107/180/251 108/181/251 109/182/251
 f  110/183/251 107/180/251 109/182/251
 f  109/182/251 111/184/251 110/183/251
@@ -1293,7 +1283,6 @@ f  112/29/134 113/30/134 116/185/259
 
 # Mesh 'frm-south_hull_1' with 90 faces
 g frm-south_hull_1
-usemtl JoinedMaterial_#16
 f  119/188/260 120/189/261 121/190/262
 f  122/191/263 119/188/260 121/190/262
 f  122/191/263 121/190/262 123/192/264
@@ -1387,7 +1376,6 @@ f  153/236/302 171/235/335 154/234/303
 
 # Mesh 'frm-south_hull_1' with 12 faces
 g frm-south_hull_1
-usemtl JoinedMaterial_#14
 f  167/239/340 168/240/252 141/241/252
 f  140/242/341 167/239/340 141/241/252
 f  166/243/342 167/239/340 140/242/341
@@ -1403,7 +1391,6 @@ f  141/242/351 168/239/349 162/241/349
 
 # Mesh 'frm-cube5' with 16 faces
 g frm-cube5
-usemtl JoinedMaterial_#12
 f  172/181/251 173/180/251 174/183/251
 f  175/182/251 172/181/251 174/183/251
 f  174/183/251 176/29/251 175/182/251
@@ -1423,7 +1410,6 @@ f  179/30/134 176/29/134 174/186/357
 
 # Mesh 'frm-south_hull_3' with 90 faces
 g frm-south_hull_3
-usemtl JoinedMaterial_#16
 f  184/189/358 185/188/359 186/191/360
 f  187/190/361 184/189/358 186/191/360
 f  186/191/360 188/193/362 189/192/363
@@ -1517,7 +1503,6 @@ f  218/234/400 236/235/433 220/236/402
 
 # Mesh 'frm-south_hull_3' with 12 faces
 g frm-south_hull_3
-usemtl JoinedMaterial_#14
 f  233/240/252 232/239/438 206/242/439
 f  205/241/252 233/240/252 206/242/439
 f  206/242/439 232/239/438 207/244/440
@@ -1533,7 +1518,6 @@ f  228/241/449 203/240/447 205/242/447
 
 # Mesh 'frm-cyl1' with 18 faces
 g frm-cyl1
-usemtl JoinedMaterial_#16
 f  237/245/450 238/246/451 239/247/452
 f  240/248/453 237/245/450 239/247/452
 f  241/249/454 242/250/455 238/246/451
@@ -1555,7 +1539,6 @@ f  246/43/459 248/44/461 249/254/467
 
 # Mesh 'frm-south_block' with 10 faces
 g frm-south_block
-usemtl JoinedMaterial_#27
 f  250/255/468 251/256/468 252/257/468
 f  253/258/468 250/255/468 252/257/468
 f  254/259/469 255/260/470 256/255/469
@@ -1569,13 +1552,11 @@ f  250/41/134 256/265/134 251/267/134
 
 # Mesh 'frm-south_block' with 2 faces
 g frm-south_block
-usemtl JoinedMaterial_#28
 f  253/268/475 252/269/253 254/270/475
 f  257/271/476 253/268/475 254/270/475
 
 # Mesh 'frm-south_block6' with 10 faces
 g frm-south_block6
-usemtl JoinedMaterial_#27
 f  258/255/477 259/256/478 260/257/477
 f  261/258/479 258/255/477 260/257/477
 f  262/259/480 263/260/481 264/255/480
@@ -1589,13 +1570,11 @@ f  258/41/134 264/265/134 259/267/134
 
 # Mesh 'frm-south_block6' with 2 faces
 g frm-south_block6
-usemtl JoinedMaterial_#28
 f  261/268/489 260/269/253 262/270/489
 f  265/271/490 261/268/489 262/270/489
 
 # Mesh 'frm-south_block5' with 10 faces
 g frm-south_block5
-usemtl JoinedMaterial_#27
 f  266/255/491 267/256/492 268/257/491
 f  269/258/493 266/255/491 268/257/491
 f  270/259/494 271/260/495 272/255/494
@@ -1609,7 +1588,6 @@ f  266/41/134 272/265/134 267/267/134
 
 # Mesh 'frm-south_block5' with 2 faces
 g frm-south_block5
-usemtl JoinedMaterial_#28
 f  269/268/503 268/269/253 270/270/503
 f  273/271/504 269/268/503 270/270/503
 

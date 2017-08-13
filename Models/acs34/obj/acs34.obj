@@ -269,7 +269,7 @@ vn 0.888637 0.383222 -0.251923
 
 # Mesh 'frm-main_housing' with 18 faces
 g frm-main_housing
-usemtl material252
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/2
 f  1/1/1 3/3/2 4/4/3
 f  5/5/4 1/1/1 4/4/3
@@ -291,7 +291,7 @@ f  3/3/13 6/6/13 4/4/13
 
 # Mesh 'frm-main_housing' with 4 faces
 g frm-main_housing
-usemtl JoinedMaterial_#7
+usemtl MainMaterial
 f  2/9/14 9/10/14 12/11/14
 f  2/9/14 12/11/14 3/12/14
 f  16/13/15 7/14/15 8/15/15
@@ -299,7 +299,7 @@ f  16/13/15 8/15/15 15/16/15
 
 # Mesh 'frm-main_housing' with 6 faces
 g frm-main_housing
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  1/17/16 5/18/16 7/19/16
 f  1/17/16 7/19/16 16/20/16
 f  1/17/16 16/20/16 14/21/16
@@ -309,7 +309,7 @@ f  1/17/16 9/23/16 2/24/16
 
 # Mesh 'frm-core' with 8 faces
 g frm-core
-usemtl material569
+usemtl MainMaterial
 f  17/25/17 18/26/17 19/27/17
 f  17/25/17 19/27/17 20/28/17
 f  21/29/18 22/30/18 23/31/18
@@ -321,7 +321,7 @@ f  29/37/20 31/39/20 32/40/20
 
 # Mesh 'frm-core' with 8 faces
 g frm-core
-usemtl material578
+usemtl MainMaterial
 f  33/41/14 34/42/14 35/43/14
 f  33/41/14 35/43/14 36/44/14
 f  37/42/15 38/41/15 39/44/15
@@ -333,7 +333,7 @@ f  45/46/22 47/48/22 48/47/22
 
 # Mesh 'frm-core' with 30 faces
 g frm-core
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  23/49/23 22/50/23 37/51/23
 f  23/49/23 37/51/23 40/52/23
 f  29/50/24 32/49/24 39/52/24
@@ -367,7 +367,7 @@ f  21/78/30 43/76/30 42/79/30
 
 # Mesh 'frm-handle' with 24 faces
 g frm-handle
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  49/80/21 50/81/21 51/82/21
 f  51/82/21 50/81/21 52/83/21
 f  51/82/21 52/83/21 53/84/21
@@ -395,7 +395,7 @@ f  54/97/34 61/99/34 55/98/34
 
 # Mesh 'frm-base' with 28 faces
 g frm-base
-usemtl JoinedMaterial_#7
+usemtl MainMaterial
 f  65/104/35 66/105/36 67/106/37
 f  65/104/35 67/106/37 68/107/38
 f  69/108/39 65/104/35 68/107/38

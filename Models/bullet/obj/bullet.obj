@@ -29,7 +29,7 @@ vn -0.706382 0.706382 -0.0452603
 
 # Mesh '$dummy_node' with 8 faces
 g $dummy_node
-usemtl material172
+usemtl MainMaterial
 f  1//1 2//2 3//1
 f  4//3 1//1 3//1
 f  3//4 2//5 5//4

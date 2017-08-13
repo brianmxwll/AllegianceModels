@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl01_static.obj.mtl
 
 # 369 vertex positions
 v  0.000332 0.296196 -0.364972
@@ -1342,7 +1341,6 @@ vn -0.923109 -0.0300711 -0.38336
 
 # Mesh 'frm-lfuselg4' with 5 faces
 g frm-lfuselg4
-usemtl JoinedMaterial_#42
 f  1/1/1 2/2/1 3/3/1
 f  4/4/1 1/1/1 3/3/1
 f  5/5/1 4/4/1 3/3/1
@@ -1351,7 +1349,6 @@ f  2/2/1 6/6/1 3/3/1
 
 # Mesh 'frm-lfuselg4' with 24 faces
 g frm-lfuselg4
-usemtl JoinedMaterial_#42
 f  2/7/2 1/8/3 7/9/4
 f  2/7/2 7/9/4 8/10/5
 f  8/10/5 7/9/4 9/11/6
@@ -1379,7 +1376,6 @@ f  4/19/14 5/26/21 18/22/17
 
 # Mesh 'frm-lfuselg4' with 5 faces
 g frm-lfuselg4
-usemtl JoinedMaterial_#42
 f  13/27/22 12/28/22 22/29/22
 f  12/28/22 20/30/22 22/29/22
 f  20/30/22 21/31/22 22/29/22
@@ -1388,7 +1384,6 @@ f  15/32/22 13/27/22 22/29/22
 
 # Mesh 'frm-lfuselg4' with 6 faces
 g frm-lfuselg4
-usemtl JoinedMaterial_#42
 f  5/33/23 6/34/24 11/35/25
 f  5/33/23 11/35/25 18/36/26
 f  18/36/26 11/35/25 14/37/27
@@ -1398,7 +1393,6 @@ f  19/38/28 15/39/29 21/40/30
 
 # Mesh 'frm-lfuselg3' with 5 faces
 g frm-lfuselg3
-usemtl JoinedMaterial_#42
 f  23/1/1 24/2/1 25/3/1
 f  26/4/1 23/1/1 25/3/1
 f  27/5/1 26/4/1 25/3/1
@@ -1407,7 +1401,6 @@ f  24/2/1 28/6/1 25/3/1
 
 # Mesh 'frm-lfuselg3' with 24 faces
 g frm-lfuselg3
-usemtl JoinedMaterial_#42
 f  24/7/2 23/8/3 29/9/4
 f  24/7/2 29/9/4 30/10/5
 f  30/10/5 29/9/4 31/11/6
@@ -1435,7 +1428,6 @@ f  26/19/14 27/26/21 40/22/17
 
 # Mesh 'frm-lfuselg3' with 5 faces
 g frm-lfuselg3
-usemtl JoinedMaterial_#42
 f  35/27/22 34/28/22 44/29/22
 f  34/28/22 42/30/22 44/29/22
 f  42/30/22 43/31/22 44/29/22
@@ -1444,7 +1436,6 @@ f  37/32/22 35/27/22 44/29/22
 
 # Mesh 'frm-lfuselg3' with 6 faces
 g frm-lfuselg3
-usemtl JoinedMaterial_#42
 f  27/33/23 28/34/24 33/35/25
 f  27/33/23 33/35/25 40/36/26
 f  40/36/26 33/35/25 36/37/27
@@ -1454,7 +1445,6 @@ f  41/38/28 37/39/29 43/40/30
 
 # Mesh 'frm-rfuselg1' with 14 faces
 g frm-rfuselg1
-usemtl JoinedMaterial_#42
 f  45/41/31 46/42/32 47/43/33
 f  45/41/31 47/43/33 48/44/34
 f  46/42/35 49/45/36 47/43/37
@@ -1472,7 +1462,6 @@ f  46/52/51 51/54/53 50/55/54
 
 # Mesh 'frm-trfuselg' with 26 faces
 g frm-trfuselg
-usemtl JoinedMaterial_#42
 f  54/56/55 55/57/56 56/58/57
 f  54/56/55 56/58/57 57/59/58
 f  58/60/59 59/61/60 56/58/61
@@ -1502,7 +1491,6 @@ f  68/70/81 67/69/80 66/68/22
 
 # Mesh 'frm-bfuselg' with 26 faces
 g frm-bfuselg
-usemtl JoinedMaterial_#42
 f  69/71/83 70/72/84 71/73/85
 f  69/71/83 72/74/1 70/72/84
 f  69/71/83 73/75/1 72/74/1
@@ -1532,7 +1520,6 @@ f  81/83/1 82/84/108 83/85/107
 
 # Mesh 'frm-rfuselg2' with 40 faces
 g frm-rfuselg2
-usemtl JoinedMaterial_#42
 f  84/86/111 85/87/112 86/88/1
 f  87/89/113 84/86/111 86/88/1
 f  88/90/114 87/89/113 86/88/1
@@ -1576,7 +1563,6 @@ f  92/94/117 104/106/128 95/97/119
 
 # Mesh 'frm-solar_panel1' with 26 faces
 g frm-solar_panel1
-usemtl JoinedMaterial_#42
 f  106/108/129 107/109/130 108/110/131
 f  106/108/129 108/110/131 109/111/132
 f  107/109/133 110/112/134 108/110/135
@@ -1606,7 +1592,6 @@ f  116/118/155 119/121/148 120/122/151
 
 # Mesh 'frm-solar_panel1' with 26 faces
 g frm-solar_panel1
-usemtl JoinedMaterial_#42
 f  122/124/156 123/125/157 124/126/158
 f  122/124/156 124/126/159 125/127/160
 f  125/127/160 124/126/159 126/128/161
@@ -1636,7 +1621,6 @@ f  135/137/174 129/131/164 128/130/182
 
 # Mesh 'frm-solar_panel1' with 16 faces
 g frm-solar_panel1
-usemtl material3035
 f  118/140/183 121/141/183 138/142/184
 f  118/140/183 138/142/184 139/143/184
 f  139/143/184 138/142/184 135/144/183
@@ -1656,7 +1640,6 @@ f  140/145/190 122/150/189 129/146/189
 
 # Mesh 'frm-beacon1' with 8 faces
 g frm-beacon1
-usemtl JoinedMaterial_#42
 l  142/152 143/153
 l  142/152 143/153
 l  144/154 142/152
@@ -1668,7 +1651,6 @@ l  145/155 144/154
 
 # Mesh 'frm-beacon1' with 28 faces
 g frm-beacon1
-usemtl JoinedMaterial_#42
 f  146/156/191 147/157/192 148/158/193
 f  146/156/191 148/158/193 149/159/194
 f  148/158/195 147/157/196 143/153/197
@@ -1700,7 +1682,6 @@ f  157/167/229 152/162/203 151/161/202
 
 # Mesh 'frm-beacon2' with 24 faces
 g frm-beacon2
-usemtl material4453
 f  158/168/231 159/169/232 160/170/233
 f  159/169/234 158/168/235 161/171/236
 f  162/172/237 158/168/238 160/170/239
@@ -1728,7 +1709,6 @@ f  174/184/280 165/175/286 168/178/281
 
 # Mesh 'frm-beacon2' with 64 faces
 g frm-beacon2
-usemtl JoinedMaterial_#42
 f  176/186/287 177/187/288 178/188/289
 f  176/186/287 178/188/289 179/189/289
 f  179/189/289 178/188/289 180/190/290
@@ -1796,7 +1776,6 @@ f  200/220/353 185/229/298 183/222/297
 
 # Mesh 'frm-pwrpak' with 50 faces
 g frm-pwrpak
-usemtl JoinedMaterial_#42
 f  204/230/355 205/231/356 206/232/357
 f  204/230/355 206/232/357 207/233/358
 f  207/233/358 206/232/357 208/234/359
@@ -1850,7 +1829,6 @@ f  204/277/355 210/281/361 230/278/139
 
 # Mesh 'frm-lfuselg2' with 40 faces
 g frm-lfuselg2
-usemtl JoinedMaterial_#42
 f  231/86/111 232/87/112 233/88/1
 f  234/89/113 231/86/111 233/88/1
 f  235/90/114 234/89/113 233/88/1
@@ -1894,7 +1872,6 @@ f  239/94/117 251/106/128 242/97/119
 
 # Mesh 'frm-lslrpan1' with 26 faces
 g frm-lslrpan1
-usemtl JoinedMaterial_#42
 f  253/108/129 254/109/130 255/110/131
 f  253/108/129 255/110/131 256/111/132
 f  254/109/133 257/112/134 255/110/135
@@ -1924,7 +1901,6 @@ f  263/118/155 266/121/148 267/122/151
 
 # Mesh 'frm-lslrpan1' with 42 faces
 g frm-lslrpan1
-usemtl JoinedMaterial_#42
 f  265/282/183 268/283/183 269/284/184
 f  265/282/183 269/284/184 270/285/184
 f  270/285/184 269/284/184 271/286/380
@@ -1970,7 +1946,6 @@ f  271/307/405 273/301/406 281/300/182
 
 # Mesh 'frm-lfuselg1' with 14 faces
 g frm-lfuselg1
-usemtl JoinedMaterial_#42
 f  289/310/407 290/311/408 291/312/409
 f  289/310/407 291/312/409 292/313/410
 f  290/311/411 293/314/412 291/312/413
@@ -1988,7 +1963,6 @@ f  293/317/422 296/316/421 297/318/430
 
 # Mesh 'frm-blfuselg' with 26 faces
 g frm-blfuselg
-usemtl JoinedMaterial_#42
 f  298/320/431 299/321/432 300/322/433
 f  301/323/434 300/322/433 302/324/435
 f  298/320/431 303/325/1 299/321/432
@@ -2018,7 +1992,6 @@ f  298/335/431 311/334/449 304/337/1
 
 # Mesh 'frm-tlfuselg' with 26 faces
 g frm-tlfuselg
-usemtl JoinedMaterial_#42
 f  313/341/456 314/342/457 315/343/458
 f  313/341/456 315/343/458 316/344/459
 f  317/345/460 318/346/461 315/343/462
@@ -2048,7 +2021,6 @@ f  316/344/479 315/343/480 327/355/476
 
 # Mesh 'frm-rfuselg3' with 36 faces
 g frm-rfuselg3
-usemtl JoinedMaterial_#42
 f  328/356/481 329/357/482 330/358/483
 f  328/356/481 330/358/483 331/359/484
 f  332/360/485 328/356/481 331/359/484
@@ -2088,7 +2060,6 @@ f  329/381/501 347/383/526 346/382/527
 
 # Mesh 'frm-shield' with 10 faces
 g frm-shield
-usemtl material8779
 f  348//1 349//1 350//1
 f  351//22 352//22 353//22
 f  354//1 348//1 350//1
@@ -2102,7 +2073,6 @@ f  359//22 351//22 353//22
 
 # Mesh 'frm-shield' with 30 faces
 g frm-shield
-usemtl JoinedMaterial_#42
 f  348/384/528 354/385/529 360/386/530
 f  348/384/528 360/386/530 361/387/531
 f  361/387/531 360/386/530 362/388/532

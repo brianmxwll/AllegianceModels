@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl18a_static.obj.mtl
 
 # 295 vertex positions
 v  1.85181 -0.109248 -9.16001
@@ -1163,7 +1162,6 @@ vn 0.111113 0.991725 0.0643087
 
 # Mesh 'frm-fuselg' with 352 faces
 g frm-fuselg
-usemtl JoinedMaterial_#25
 f  1/1/1 2/2/2 3/3/3
 f  2/2/4 4/4/5 5/5/5
 f  6/6/5 2/2/4 5/5/5
@@ -1519,7 +1517,6 @@ f  183/312/275 17/313/27 19/307/25
 
 # Mesh 'frm-fuselg' with 24 faces
 g frm-fuselg
-usemtl JoinedMaterial_#17
 f  111/315/276 184/316/277 185/317/278
 f  185/317/278 112/318/279 111/315/276
 f  185/317/278 184/316/277 186/319/280
@@ -1547,7 +1544,6 @@ f  189/337/285 72/339/290 73/341/291
 
 # Mesh 'frm-rwingzz' with 10 faces
 g frm-rwingzz
-usemtl JoinedMaterial_#25
 f  190/342/292 191/343/293 192/344/294
 f  190/342/292 192/344/294 193/345/295
 f  191/343/296 194/342/297 195/345/298
@@ -1561,7 +1557,6 @@ f  190/342/164 194/342/164 191/343/164
 
 # Mesh 'frm-lwingzz' with 10 faces
 g frm-lwingzz
-usemtl JoinedMaterial_#25
 f  198/348/304 199/349/305 200/350/306
 f  198/348/304 200/350/306 201/351/307
 f  199/349/308 202/348/309 203/351/310
@@ -1575,7 +1570,6 @@ f  200/350/110 205/352/110 201/351/110
 
 # Mesh 'frm-engine1' with 22 faces
 g frm-engine1
-usemtl JoinedMaterial_#25
 f  206/353/5 207/354/5 208/355/5
 f  209/356/5 206/353/5 208/355/5
 f  210/357/5 209/356/5 208/355/5
@@ -1601,7 +1595,6 @@ f  207/378/331 206/361/316 215/364/319
 
 # Mesh 'frm-engine3' with 22 faces
 g frm-engine3
-usemtl JoinedMaterial_#25
 f  222/379/5 223/380/5 224/355/5
 f  225/381/5 222/379/5 224/355/5
 f  226/382/5 225/381/5 224/355/5
@@ -1627,7 +1620,6 @@ f  223/378/345 222/361/332 231/364/335
 
 # Mesh 'frm-engine2' with 22 faces
 g frm-engine2
-usemtl JoinedMaterial_#25
 f  238/386/5 239/387/5 240/388/5
 f  241/389/5 238/386/5 240/388/5
 f  242/390/5 241/389/5 240/388/5
@@ -1653,7 +1645,6 @@ f  239/378/359 238/361/346 247/364/349
 
 # Mesh 'frm-antenn1' with 8 faces
 g frm-antenn1
-usemtl JoinedMaterial_#29
 f  254/394/360 255/395/361 256/396/360
 f  257/397/362 254/394/360 256/396/360
 f  258/394/363 259/395/364 255/396/363
@@ -1665,7 +1656,6 @@ f  260/397/371 257/394/369 261/396/369
 
 # Mesh 'frm-antenn2' with 64 faces
 g frm-antenn2
-usemtl JoinedMaterial_#29
 f  262/398/372 263/399/373 264/400/374
 f  265/401/375 262/398/372 264/400/374
 f  265/401/375 264/400/374 266/402/376

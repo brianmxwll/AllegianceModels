@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib wep06.obj.mtl
 
 # 76 vertex positions
 v  0.062793 0.188388 -0.161758
@@ -284,7 +283,6 @@ vn 0.813469 0.575969 -0.0807962
 
 # Mesh 'frm-wepbas1' with 52 faces
 g frm-wepbas1
-usemtl JoinedMaterial_#3
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/4
 f  4/4/4 3/3/3 5/5/5
@@ -340,13 +338,11 @@ f  8/34/8 7/34/7 30/33/30
 
 # Mesh 'frm-wepbas1' with 2 faces
 g frm-wepbas1
-usemtl JoinedMaterial_#10
 f  23/35/33 24/36/34 2/37/33
 f  23/35/33 2/37/33 1/38/33
 
 # Mesh 'frm-wepbas1' with 6 faces
 g frm-wepbas1
-usemtl material380
 f  6/39/35 5/40/35 32/41/35
 f  16/42/35 6/39/35 32/41/35
 f  31/43/35 14/44/35 13/45/35
@@ -356,13 +352,11 @@ f  13/45/35 17/46/35 31/43/35
 
 # Mesh 'frm-wepbas3' with 2 faces
 g frm-wepbas3
-usemtl material643
 f  33/47/36 34/48/37 35/49/36
 f  33/47/36 35/49/36 36/50/37
 
 # Mesh 'frm-wepbas3' with 6 faces
 g frm-wepbas3
-usemtl JoinedMaterial_#14
 f  37/51/38 38/52/38 39/53/38
 f  37/51/38 39/53/38 40/54/39
 f  40/55/40 39/56/40 34/57/40
@@ -372,13 +366,11 @@ f  36/58/41 38/56/41 37/55/41
 
 # Mesh 'frm-wepbas3' with 2 faces
 g frm-wepbas3
-usemtl material661
 f  35/59/42 34/60/42 39/61/42
 f  35/59/42 39/61/42 38/62/42
 
 # Mesh 'frm-wepbas2' with 10 faces
 g frm-wepbas2
-usemtl JoinedMaterial_#10
 f  41/63/43 42/64/44 43/65/45
 f  41/63/43 43/65/45 44/66/46
 f  45/67/47 46/68/48 47/69/49
@@ -392,7 +384,6 @@ f  52/67/54 41/71/43 44/72/46
 
 # Mesh 'frm-wepbas2' with 4 faces
 g frm-wepbas2
-usemtl material837
 f  52/73/55 51/74/55 46/75/55
 f  52/73/55 46/75/55 45/76/55
 f  45/76/55 42/77/55 41/78/55
@@ -400,7 +391,6 @@ f  45/76/55 41/78/55 52/73/55
 
 # Mesh 'frm-wepbas2' with 4 faces
 g frm-wepbas2
-usemtl material846
 f  48/79/56 47/80/57 50/81/57
 f  48/79/56 50/81/57 49/82/58
 f  49/82/58 44/83/59 43/84/59
@@ -408,7 +398,6 @@ f  49/82/58 43/84/59 48/79/56
 
 # Mesh 'frm-wepbar' with 40 faces
 g frm-wepbar
-usemtl JoinedMaterial_#14
 f  53/85/60 54/86/61 55/87/62
 f  53/85/60 55/87/62 56/88/63
 f  56/88/63 57/89/64 53/85/60

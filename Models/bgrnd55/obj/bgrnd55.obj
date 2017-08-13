@@ -244,7 +244,7 @@ vn 0.439144 0.896546 0.0579443
 
 # Mesh 'frm-sphere13' with 140 faces
 g frm-sphere13
-usemtl material425
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 2/2/2 4/4/4
 f  2/2/2 5/5/5 4/4/4

@@ -156,7 +156,7 @@ vn -0.541947 -0.840326 0.0120696
 
 # Mesh 'frm-bgrnd51' with 80 faces
 g frm-bgrnd51
-usemtl material319
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 2/2/2 4/4/4
 f  2/2/2 5/5/5 4/4/4

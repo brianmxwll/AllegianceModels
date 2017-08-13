@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib cap01_bound.obj.mtl
 
 # 71 vertex positions
 v  0.114547 -1.57216 -1.34723
@@ -304,7 +303,6 @@ vn -0.681369 0.73194 0
 
 # Mesh 'frm-abound2' with 12 faces
 g frm-abound2
-usemtl JoinedMaterial_#18
 f  1/1/1 2/2/2 3/3/2
 f  4/4/1 1/1/1 3/3/2
 f  5/5/3 6/6/4 7/7/4
@@ -320,7 +318,6 @@ f  1/17/8 8/20/8 2/18/8
 
 # Mesh 'frm-abound1' with 12 faces
 g frm-abound1
-usemtl JoinedMaterial_#18
 f  9/21/9 10/22/9 11/23/9
 f  12/24/9 9/21/9 11/23/9
 f  13/25/10 14/23/11 15/22/12
@@ -336,7 +333,6 @@ f  9/35/21 16/38/19 10/36/19
 
 # Mesh 'frm-midbound2' with 12 faces
 g frm-midbound2
-usemtl JoinedMaterial_#18
 f  17/39/22 18/40/23 19/41/24
 f  20/42/25 17/39/22 19/41/24
 f  21/43/26 22/44/26 23/45/26
@@ -352,7 +348,6 @@ f  17/55/35 24/58/33 18/56/23
 
 # Mesh 'frm-midbound1' with 20 faces
 g frm-midbound1
-usemtl JoinedMaterial_#18
 f  25/59/26 26/60/26 27/61/26
 f  28/60/26 25/59/26 27/61/26
 f  25/59/36 29/62/37 30/63/38
@@ -376,7 +371,6 @@ f  34/65/44 26/60/39 36/66/45
 
 # Mesh 'frm-fbound2' with 12 faces
 g frm-fbound2
-usemtl JoinedMaterial_#18
 f  37/67/9 38/68/9 39/69/9
 f  40/70/9 37/67/9 39/69/9
 f  41/71/46 42/72/47 43/73/48
@@ -392,7 +386,6 @@ f  37/81/8 44/84/64 38/82/64
 
 # Mesh 'frm-fbound1' with 4 faces
 g frm-fbound1
-usemtl JoinedMaterial_#18
 f  45/85/65 46/86/66 47/87/65
 f  45/85/65 47/87/65 48/88/67
 f  49/86/68 50/85/69 51/88/68
@@ -400,14 +393,12 @@ f  49/86/68 51/88/68 52/87/70
 
 # Mesh 'frm-fbound1' with 3 faces
 g frm-fbound1
-usemtl material1040
 f  53/89/71 49/90/72 52/91/73
 f  47/92/74 46/93/75 53/89/71
 f  52/91/73 47/92/74 53/89/71
 
 # Mesh 'frm-fbound1' with 5 faces
 g frm-fbound1
-usemtl material1049
 f  50/94/26 45/95/26 48/96/26
 f  50/94/26 48/96/26 51/97/26
 f  50/98/76 49/99/76 53/100/76
@@ -416,13 +407,11 @@ f  50/98/76 46/101/76 45/102/76
 
 # Mesh 'frm-fbound1' with 2 faces
 g frm-fbound1
-usemtl material1058
 f  48/103/77 47/104/78 52/105/77
 f  48/103/77 52/105/77 51/106/77
 
 # Mesh 'frm-bbound' with 32 faces
 g frm-bbound
-usemtl JoinedMaterial_#18
 f  54/107/79 55/108/80 56/109/81
 f  57/110/82 58/111/83 56/109/81
 f  59/112/84 57/110/82 56/109/81

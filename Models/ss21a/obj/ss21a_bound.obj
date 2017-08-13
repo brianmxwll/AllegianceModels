@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss21a_bound.obj.mtl
 
 # 115 vertex positions
 v  8.27862 10.3207 7.41292
@@ -327,7 +326,6 @@ vn 0.152794 0.900682 -0.406725
 
 # Mesh 'frm-root' with 4 faces
 g frm-root
-usemtl $Material_0
 f  1//1 2//1 3//1
 f  2//2 1//2 4//2
 f  3//3 4//3 1//3
@@ -335,7 +333,6 @@ f  4//4 3//4 2//4
 
 # Mesh 'frm-bound1' with 12 faces
 g frm-bound1
-usemtl $Material_0
 f  5//5 6//6 7//5
 f  5//5 7//5 8//7
 f  6//8 5//9 9//8
@@ -351,7 +348,6 @@ f  12//20 8//20 7//22
 
 # Mesh 'frm-bound2' with 28 faces
 g frm-bound2
-usemtl $Material_0
 f  13//23 14//24 15//25
 f  13//23 15//25 16//26
 f  14//24 17//27 15//25
@@ -383,7 +379,6 @@ f  28//39 13//23 16//26
 
 # Mesh 'frm-bound3' with 12 faces
 g frm-bound3
-usemtl $Material_0
 f  29//40 30//41 31//40
 f  29//40 31//40 32//42
 f  30//43 29//44 33//43
@@ -399,7 +394,6 @@ f  36//55 32//55 31//57
 
 # Mesh 'frm-bound4' with 12 faces
 g frm-bound4
-usemtl $Material_0
 f  37//58 38//59 39//58
 f  37//58 39//58 40//60
 f  38//61 37//61 41//61
@@ -415,7 +409,6 @@ f  44//69 40//69 39//71
 
 # Mesh 'frm-bound7' with 12 faces
 g frm-bound7
-usemtl $Material_0
 f  45//72 46//72 47//72
 f  48//72 45//72 47//72
 f  49//73 50//74 46//73
@@ -431,7 +424,6 @@ f  47//82 46//82 52//82
 
 # Mesh 'frm-bound9' with 12 faces
 g frm-bound9
-usemtl $Material_0
 f  53//72 54//72 55//72
 f  56//72 53//72 55//72
 f  57//73 58//74 54//73
@@ -447,7 +439,6 @@ f  55//82 54//82 60//82
 
 # Mesh 'frm-bound8' with 12 faces
 g frm-bound8
-usemtl $Material_0
 f  61//72 62//72 63//72
 f  64//72 61//72 63//72
 f  65//84 66//85 62//85
@@ -463,7 +454,6 @@ f  63//87 62//89 68//87
 
 # Mesh 'frm-bound5' with 20 faces
 g frm-bound5
-usemtl $Material_0
 f  69//90 70//90 71//91
 f  69//90 71//91 72//92
 f  73//93 72//92 71//91
@@ -487,7 +477,6 @@ f  74//94 73//93 79//100
 
 # Mesh 'frm-bound6' with 24 faces
 g frm-bound6
-usemtl $Material_0
 f  81//72 82//114 83//115
 f  81//72 83//115 84//72
 f  84//28 83//116 85//117
@@ -515,7 +504,6 @@ f  90//141 93//133 82//135
 
 # Mesh 'frm-bound10' with 24 faces
 g frm-bound10
-usemtl $Material_0
 f  95//142 96//143 97//144
 f  97//144 98//145 95//142
 f  96//146 79//147 97//144
@@ -543,7 +531,6 @@ f  101//156 104//172 96//173
 
 # Mesh 'frm-bound11' with 24 faces
 g frm-bound11
-usemtl $Material_0
 f  106//174 104//175 96//176
 f  96//177 107//178 106//174
 f  95//179 107//178 96//180

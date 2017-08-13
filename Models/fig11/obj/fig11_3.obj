@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib fig11_3.obj.mtl
 
 # 117 vertex positions
 v  0.228391 0.598926 2.74997
@@ -522,7 +521,6 @@ vn 0.301511 0.904534 -0.301512
 
 # Mesh '$dummy_node' with 25 faces
 g $dummy_node
-usemtl material356
 f  1/1/1 2/2/2 3/3/3
 f  2/2/2 4/4/4 3/3/5
 f  2/2/2 1/5/1 5/6/6
@@ -551,12 +549,10 @@ f  1/29/1 3/30/3 20/19/36
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material363
 f  14/31/45 18/32/45 9/33/45
 
 # Mesh '$dummy_node' with 26 faces
 g $dummy_node
-usemtl material370
 f  21/34/46 22/35/46 23/36/46
 f  24/37/47 23/36/47 22/35/47
 f  24/37/48 22/35/48 21/34/48
@@ -586,18 +582,15 @@ f  34/55/69 30/55/66 33/58/72
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material377
 f  13/59/73 5/60/73 1/61/73
 
 # Mesh '$dummy_node' with 2 faces
 g $dummy_node
-usemtl material384
 f  5/62/74 11/63/75 4/64/74
 f  4/64/74 2/65/76 5/62/74
 
 # Mesh '$dummy_node' with 62 faces
 g $dummy_node
-usemtl material391
 f  35/66/77 36/67/77 37/68/77
 f  38/69/78 39/70/78 40/71/78
 f  41/72/79 40/71/80 39/70/81
@@ -663,7 +656,6 @@ f  81/120/161 72/116/123 79/115/123
 
 # Mesh '$dummy_node' with 12 faces
 g $dummy_node
-usemtl material398
 f  92//162 93//163 94//164
 f  93//165 92//166 95//167
 f  96//168 92//169 94//162
@@ -679,19 +671,16 @@ f  100//178 98//178 101//183
 
 # Mesh '$dummy_node' with 3 faces
 g $dummy_node
-usemtl material405
 f  102/152/184 88/153/184 87/154/184
 f  88/153/185 102/152/186 89/155/186
 f  102/152/186 87/154/187 89/155/186
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material412
 f  103/156/188 104/157/188 105/158/188
 
 # Mesh '$dummy_node' with 8 faces
 g $dummy_node
-usemtl material419
 f  106//189 107//190 108//191
 f  107//192 106//193 109//194
 f  110//195 106//196 108//197
@@ -703,7 +692,6 @@ f  110//210 111//211 109//212
 
 # Mesh '$dummy_node' with 8 faces
 g $dummy_node
-usemtl material426
 f  112//213 113//214 114//215
 f  115//216 114//217 113//218
 f  112//219 114//220 116//221

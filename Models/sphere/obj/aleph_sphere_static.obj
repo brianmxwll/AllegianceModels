@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib aleph_sphere_static.obj.mtl
 
 # 58 vertex positions
 v  1.35299 -4.6194 -1.35299
@@ -127,7 +126,6 @@ vn -0.707107 -8.13617e-008 -0.707107
 
 # Mesh 'frm-sphere1' with 112 faces
 g frm-sphere1
-usemtl material343
 f  1//1 2//2 3//3
 f  4//4 1//1 3//3
 f  5//5 4//4 3//3

@@ -1,43 +1,10 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-newmtl JoinedMaterial_#14
-kd 1 1 1
-ks 1 1 1
-ke 0.5 0.5 0.5
-illum 1
-map_kd acs37.bmp
-
-newmtl JoinedMaterial_#13
-kd 1 1 1
-ks 1 1 1
-ke 0.4 0.4 0.4
-illum 1
-map_kd acs37.bmp
-
-newmtl JoinedMaterial_#15
-kd 1 1 1
-ks 1 1 1
-ke 0.3 0.3 0.3
-illum 1
-map_kd acs37.bmp
-
-newmtl JoinedMaterial_#11
+newmtl MainMaterial
 kd 1 1 1
 ks 1 1 1
 ke 0 0 0
 illum 1
-map_kd acs37.bmp
-
-newmtl material1076
-kd 0.730496 0.893617 1
-ks 1 1 1
-ke 0.730496 0.893617 1
-illum 1
-
-newmtl material1231
-kd 1 0 0
-ks 1 1 1
-ke 1 0 0
-illum 1
-
+map_Ka acs37.bmp
+map_Kd acs37.bmp

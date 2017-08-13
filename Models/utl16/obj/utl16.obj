@@ -905,7 +905,7 @@ vn 0.981981 0.188982 0
 
 # Mesh 'frm-fuselg' with 188 faces
 g frm-fuselg
-usemtl JoinedMaterial_#16
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 4/4/4 1/1/1
 f  4/4/4 3/3/3 5/5/5
@@ -1097,7 +1097,7 @@ f  112/141/136 116/145/140 114/143/138
 
 # Mesh 'frm-fuselg' with 148 faces
 g frm-fuselg
-usemtl material1107
+usemtl MainMaterial
 f  117/146/141 87/147/142 118/148/143
 f  118/148/143 87/147/142 119/149/144
 f  118/148/143 120/150/145 117/146/141
@@ -1249,7 +1249,7 @@ f  93/198/241 147/197/194 89/200/197
 
 # Mesh 'frm-rengine2' with 6 faces
 g frm-rengine2
-usemtl JoinedMaterial_#9
+usemtl MainMaterial
 f  171/207/242 172/208/243 173/209/244
 f  171/207/242 173/209/244 174/210/245
 f  171/207/242 175/211/246 172/208/243
@@ -1259,7 +1259,7 @@ f  171/207/242 177/213/247 175/211/246
 
 # Mesh 'frm-rengine2' with 12 faces
 g frm-rengine2
-usemtl JoinedMaterial_#16
+usemtl MainMaterial
 f  178/214/248 179/215/249 174/216/250
 f  178/214/248 174/216/250 173/217/251
 f  179/215/249 176/218/252 174/216/250
@@ -1275,7 +1275,7 @@ f  180/219/253 177/216/259 176/218/252
 
 # Mesh 'frm-engine1' with 6 faces
 g frm-engine1
-usemtl JoinedMaterial_#9
+usemtl MainMaterial
 f  184/207/242 185/208/243 186/209/244
 f  184/207/242 186/209/244 187/210/245
 f  184/207/242 188/211/246 185/208/243
@@ -1285,7 +1285,7 @@ f  184/207/242 190/213/247 188/211/246
 
 # Mesh 'frm-engine1' with 12 faces
 g frm-engine1
-usemtl JoinedMaterial_#16
+usemtl MainMaterial
 f  191/214/248 192/215/249 187/216/250
 f  191/214/248 187/216/250 186/217/251
 f  192/215/249 189/218/252 187/216/250
@@ -1301,7 +1301,7 @@ f  193/219/253 190/216/259 189/218/252
 
 # Mesh 'frm-lengine2' with 6 faces
 g frm-lengine2
-usemtl JoinedMaterial_#9
+usemtl MainMaterial
 f  197/222/260 198/208/260 199/223/260
 f  200/224/260 197/222/260 199/223/260
 f  198/208/260 201/225/260 199/223/260
@@ -1311,7 +1311,7 @@ f  201/225/260 203/226/260 199/223/260
 
 # Mesh 'frm-lengine2' with 12 faces
 g frm-lengine2
-usemtl JoinedMaterial_#16
+usemtl MainMaterial
 f  197/216/261 200/217/249 204/214/262
 f  197/216/261 204/214/262 205/215/263
 f  200/217/249 206/220/252 204/214/262
@@ -1327,7 +1327,7 @@ f  202/221/264 209/214/270 206/220/252
 
 # Mesh 'frm-lengine1' with 6 faces
 g frm-lengine1
-usemtl JoinedMaterial_#9
+usemtl MainMaterial
 f  210/222/260 211/208/260 212/223/260
 f  213/224/260 210/222/260 212/223/260
 f  211/208/260 214/225/260 212/223/260
@@ -1337,7 +1337,7 @@ f  214/225/260 216/226/260 212/223/260
 
 # Mesh 'frm-lengine1' with 12 faces
 g frm-lengine1
-usemtl material2554
+usemtl MainMaterial
 f  217/216/271 218/217/272 219/214/273
 f  217/216/271 219/214/273 220/215/274
 f  218/217/272 221/220/275 219/214/273
@@ -1353,7 +1353,7 @@ f  222/221/276 228/214/282 221/220/275
 
 # Mesh 'frm-SSf' with 8 faces
 g frm-SSf
-usemtl JoinedMaterial_#15
+usemtl MainMaterial
 f  229//283 230//284 231//285
 f  230//286 229//287 232//288
 f  233//289 229//290 231//291
@@ -1365,7 +1365,7 @@ f  233//304 234//305 232//306
 
 # Mesh 'frm-SSm' with 8 faces
 g frm-SSm
-usemtl JoinedMaterial_#15
+usemtl MainMaterial
 f  235//283 236//284 237//285
 f  236//286 235//287 238//288
 f  239//289 235//290 237//291
@@ -1377,7 +1377,7 @@ f  239//304 240//305 238//306
 
 # Mesh 'frm-SSr' with 8 faces
 g frm-SSr
-usemtl material2816
+usemtl MainMaterial
 f  241//288 242//286 243//287
 f  244//285 243//283 242//284
 f  241//294 243//292 245//293
@@ -1389,7 +1389,7 @@ f  244//303 246//301 245//302
 
 # Mesh 'frm-SSl' with 8 faces
 g frm-SSl
-usemtl material2890
+usemtl MainMaterial
 f  247//283 248//284 249//285
 f  248//286 247//287 250//288
 f  251//289 247//290 249//291
@@ -1401,7 +1401,7 @@ f  251//304 252//305 250//306
 
 # Mesh 'frm-SSa' with 8 faces
 g frm-SSa
-usemtl JoinedMaterial_#15
+usemtl MainMaterial
 f  253//283 254//284 255//285
 f  254//286 253//287 256//288
 f  257//289 253//290 255//291
@@ -1413,7 +1413,7 @@ f  257//304 258//305 256//306
 
 # Mesh 'frm-tractr' with 42 faces
 g frm-tractr
-usemtl JoinedMaterial_#16
+usemtl MainMaterial
 f  259/227/307 260/228/308 261/229/309
 f  260/228/308 262/230/245 261/229/309
 f  262/230/245 263/231/245 261/229/309

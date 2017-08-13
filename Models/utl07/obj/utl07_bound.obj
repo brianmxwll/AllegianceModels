@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl07_bound.obj.mtl
 
 # 99 vertex positions
 v  12.0335 -30.2871 9.92141
@@ -247,7 +246,6 @@ vn 0.319677 0.847524 0.423687
 
 # Mesh 'frm-tbound2' with 62 faces
 g frm-tbound2
-usemtl $Material_0
 f  1//1 2//2 3//3
 f  4//4 5//5 3//3
 f  2//2 6//6 3//3
@@ -313,7 +311,6 @@ f  7//7 8//8 19//19
 
 # Mesh 'frm-tbound1' with 94 faces
 g frm-tbound1
-usemtl $Material_0
 f  34//42 35//43 36//44
 f  37//45 38//46 36//44
 f  35//47 39//48 36//44

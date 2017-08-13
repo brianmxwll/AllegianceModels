@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib fig12_4.obj.mtl
 
 # 156 vertex positions
 v  -0.949443 0.30483 0.956155
@@ -618,7 +617,6 @@ vn 0.300159 -0.301678 0.904928
 
 # Mesh '$dummy_node' with 62 faces
 g $dummy_node
-usemtl material378
 f  1/1/1 2/2/2 3/3/3
 f  1/1/4 3/3/1 4/4/5
 f  3/3/2 2/2/2 5/5/6
@@ -684,7 +682,6 @@ f  87/89/102 88/90/102 89/91/102
 
 # Mesh '$dummy_node' with 20 faces
 g $dummy_node
-usemtl material385
 f  69/92/103 90/93/104 72/94/105
 f  90/93/104 91/95/106 72/94/105
 f  51/96/107 69/92/103 70/97/108
@@ -708,17 +705,14 @@ f  101/128/126 88/129/126 87/126/126
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material392
 f  102/131/127 103/132/127 104/133/127
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material399
 f  102/134/128 104/135/128 105/136/128
 
 # Mesh '$dummy_node' with 4 faces
 g $dummy_node
-usemtl material406
 f  102/137/129 105/138/129 103/139/129
 f  106/140/130 107/141/130 108/142/130
 f  93/143/131 95/144/131 96/145/131
@@ -726,7 +720,6 @@ f  104/146/132 103/147/132 105/148/132
 
 # Mesh '$dummy_node' with 32 faces
 g $dummy_node
-usemtl material413
 f  109//133 110//134 111//135
 f  112//136 111//137 110//138
 f  109//139 111//140 113//141
@@ -762,7 +755,6 @@ f  130//226 132//227 131//228
 
 # Mesh '$dummy_node' with 7 faces
 g $dummy_node
-usemtl material420
 f  133/149/229 134/150/229 135/151/229
 f  136/152/230 137/153/231 138/154/232
 f  136/152/230 138/154/232 139/155/233
@@ -773,12 +765,10 @@ f  137/161/238 140/156/239 141/159/238
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material427
 f  142/34/240 143/162/240 144/163/240
 
 # Mesh '$dummy_node' with 8 faces
 g $dummy_node
-usemtl material434
 f  145//241 146//242 147//243
 f  148//244 147//245 146//246
 f  145//247 147//248 149//249
@@ -790,7 +780,6 @@ f  148//262 146//263 150//264
 
 # Mesh '$dummy_node' with 8 faces
 g $dummy_node
-usemtl material441
 f  151//265 152//266 153//267
 f  152//268 151//269 154//270
 f  155//271 151//272 153//273

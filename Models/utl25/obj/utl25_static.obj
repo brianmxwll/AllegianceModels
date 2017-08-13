@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl25_static.obj.mtl
 
 # 139 vertex positions
 v  0.282671 0.091846 -1.07354
@@ -564,7 +563,6 @@ vn 0.0545143 -4.3874e-007 0.998513
 
 # Mesh 'frm-rfuselg1' with 40 faces
 g frm-rfuselg1
-usemtl JoinedMaterial_#14
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/4
 f  4/4/4 3/3/3 5/5/5
@@ -608,7 +606,6 @@ f  1/31/1 7/35/7 22/32/22
 
 # Mesh 'frm-mfuselg' with 40 faces
 g frm-mfuselg
-usemtl JoinedMaterial_#14
 f  23/36/2 24/37/1 25/38/22
 f  26/39/23 23/36/2 25/38/22
 f  27/40/24 26/39/23 25/38/22
@@ -652,7 +649,6 @@ f  31/44/27 43/56/36 34/47/14
 
 # Mesh 'frm-slrpan' with 68 faces
 g frm-slrpan
-usemtl JoinedMaterial_#14
 f  45/58/37 46/59/38 47/60/39
 f  45/58/40 47/60/41 48/61/42
 f  48/61/42 47/60/41 49/62/43
@@ -724,7 +720,6 @@ f  79/94/122 70/87/122 69/86/122
 
 # Mesh 'frm-lfuselg' with 4 faces
 g frm-lfuselg
-usemtl material2151
 f  81/98/123 82/99/123 83/100/123
 f  82/99/124 84/101/124 83/100/124
 f  84/101/125 85/99/125 83/100/125
@@ -732,7 +727,6 @@ f  85/99/126 81/98/126 83/100/126
 
 # Mesh 'frm-lfuselg' with 10 faces
 g frm-lfuselg
-usemtl JoinedMaterial_#14
 f  86/102/127 87/103/128 84/104/129
 f  86/102/127 84/104/129 82/105/130
 f  87/103/131 85/106/132 84/104/133
@@ -746,7 +740,6 @@ f  87/103/143 89/103/145 88/107/146
 
 # Mesh 'frm-blfuselg' with 26 faces
 g frm-blfuselg
-usemtl JoinedMaterial_#14
 f  90/108/147 91/109/148 92/110/149
 f  93/111/150 92/110/149 94/112/151
 f  90/108/147 95/113/22 91/109/148
@@ -776,7 +769,6 @@ f  90/123/147 103/122/165 96/125/22
 
 # Mesh 'frm-tlfuselg' with 26 faces
 g frm-tlfuselg
-usemtl JoinedMaterial_#14
 f  105/129/172 106/130/173 107/131/174
 f  105/129/172 107/131/174 108/132/175
 f  109/133/176 110/134/177 107/131/178
@@ -806,7 +798,6 @@ f  108/132/195 107/131/196 119/143/192
 
 # Mesh 'frm-rfuselg2' with 36 faces
 g frm-rfuselg2
-usemtl JoinedMaterial_#14
 f  120/144/197 121/145/198 122/146/199
 f  120/144/197 122/146/199 123/147/200
 f  124/148/201 120/144/197 123/147/200

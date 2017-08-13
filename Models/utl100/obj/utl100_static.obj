@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl100_static.obj.mtl
 
 # 28 vertex positions
 v  -0.243269 0.519251 0.021622
@@ -183,7 +182,6 @@ vn -0.161261 -0.156995 0.974345
 
 # Mesh 'frm-canopy_1' with 52 faces
 g frm-canopy_1
-usemtl JoinedMaterial_#3
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  2/5/2 1/6/1 5/7/5

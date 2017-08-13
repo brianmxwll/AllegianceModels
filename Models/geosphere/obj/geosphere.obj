@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib geosphere.obj.mtl
 
 # 162 vertex positions
 v  0 90.7304 0
@@ -533,7 +532,6 @@ vn -0.210825 0.965448 -0.153174
 
 # Mesh '$dummy_node' with 320 faces
 g $dummy_node
-usemtl material1051
 f  1/1/1 2/2/2 3/3/3
 f  2/2/2 4/4/4 3/3/3
 f  3/3/3 4/4/4 5/5/5

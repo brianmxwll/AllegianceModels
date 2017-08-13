@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl94_static.obj.mtl
 
 # 44 vertex positions
 v  0.165721 -0.222348 -0.0757382
@@ -167,7 +166,6 @@ vn -0.813264 -0.348112 0.466283
 
 # Mesh 'frm-sphere1' with 84 faces
 g frm-sphere1
-usemtl material433
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 3/3/3 2/2/5
 f  4/4/4 2/2/6 5/5/7

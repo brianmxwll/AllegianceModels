@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss302_bound.obj.mtl
 
 # 99 vertex positions
 v  -9.49955 5.65084 6.12138
@@ -309,7 +308,6 @@ vn -0 -0.0329233 0.999458
 
 # Mesh 'frm-bound01' with 56 faces
 g frm-bound01
-usemtl $Material_0
 f  1//1 2//2 3//3
 f  4//4 3//3 5//5
 f  6//6 5//7 3//8
@@ -369,12 +367,10 @@ f  8//79 30//76 9//78
 
 # Mesh 'frm-bound02' with 1 faces
 g frm-bound02
-usemtl $Material_0
 l  31 32
 
 # Mesh 'frm-bound02' with 14 faces
 g frm-bound02
-usemtl $Material_0
 f  32//80 31//81 33//82
 f  34//83 35//84 36//85
 f  31//86 34//87 36//88
@@ -392,7 +388,6 @@ f  38//91 35//105 34//87
 
 # Mesh 'frm-bound03' with 12 faces
 g frm-bound03
-usemtl $Material_0
 f  40//106 41//107 42//108
 f  43//109 40//106 42//108
 f  44//110 45//111 41//112
@@ -408,7 +403,6 @@ f  42//108 41//128 47//117
 
 # Mesh 'frm-bound04' with 12 faces
 g frm-bound04
-usemtl $Material_0
 f  48//129 49//130 50//131
 f  51//132 48//129 50//131
 f  52//133 53//134 49//130
@@ -424,7 +418,6 @@ f  54//135 52//133 51//132
 
 # Mesh 'frm-bound05' with 12 faces
 g frm-bound05
-usemtl $Material_0
 f  56//138 57//139 58//140
 f  59//141 56//138 58//140
 f  60//142 61//143 57//139
@@ -440,7 +433,6 @@ f  62//144 60//142 59//141
 
 # Mesh 'frm-bound06' with 20 faces
 g frm-bound06
-usemtl $Material_0
 f  64//147 65//148 66//149
 f  67//150 64//151 66//149
 f  68//152 69//153 65//148
@@ -464,7 +456,6 @@ f  64//151 67//150 73//174
 
 # Mesh 'frm-bound07' with 12 faces
 g frm-bound07
-usemtl $Material_0
 f  76//175 77//176 78//177
 f  79//178 76//175 78//177
 f  80//179 81//179 77//179
@@ -480,7 +471,6 @@ f  78//177 77//176 83//182
 
 # Mesh 'frm-bound08' with 12 faces
 g frm-bound08
-usemtl $Material_0
 f  84//187 85//187 86//187
 f  87//187 84//187 86//187
 f  88//188 89//189 85//189
@@ -496,7 +486,6 @@ f  86//192 85//194 91//192
 
 # Mesh 'frm-bound09' with 12 faces
 g frm-bound09
-usemtl $Material_0
 f  92//187 93//187 94//187
 f  95//187 92//187 94//187
 f  96//195 97//196 93//196

@@ -179,7 +179,7 @@ vn -0.642695 -0.664001 0.382159
 
 # Mesh 'frm-beam_generator' with 12 faces
 g frm-beam_generator
-usemtl JoinedMaterial_#10
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/4
 f  2/2/2 1/1/1 5/5/5
@@ -195,7 +195,7 @@ f  12/15/11 6/17/11 5/18/11
 
 # Mesh 'frm-beam_generator' with 4 faces
 g frm-beam_generator
-usemtl material231
+usemtl MainMaterial
 f  2/19/12 7/20/12 10/21/12
 f  2/19/12 10/21/12 3/22/12
 f  7/20/12 2/19/12 6/23/12
@@ -203,7 +203,7 @@ f  7/20/12 6/23/12 11/24/12
 
 # Mesh 'frm-l_iface' with 4 faces
 g frm-l_iface
-usemtl JoinedMaterial_#10
+usemtl MainMaterial
 f  13/25/13 14/26/13 15/27/13
 f  13/25/13 15/27/13 16/28/13
 f  17/26/14 18/25/14 19/28/14
@@ -211,7 +211,7 @@ f  17/26/14 19/28/14 20/27/14
 
 # Mesh 'frm-l_iface' with 4 faces
 g frm-l_iface
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  14/29/12 17/30/12 20/31/12
 f  14/29/12 20/31/12 15/32/12
 f  18/30/15 13/29/15 16/32/15
@@ -219,13 +219,13 @@ f  18/30/15 16/32/15 19/31/15
 
 # Mesh 'frm-l_iface' with 2 faces
 g frm-l_iface
-usemtl JoinedMaterial_#7
+usemtl MainMaterial
 f  18/33/11 17/34/11 14/35/11
 f  18/33/11 14/35/11 13/36/11
 
 # Mesh 'frm-r_iface' with 4 faces
 g frm-r_iface
-usemtl JoinedMaterial_#10
+usemtl MainMaterial
 f  21/27/16 22/37/16 23/38/16
 f  21/27/16 23/38/16 24/26/16
 f  25/37/17 26/27/17 27/26/17
@@ -233,7 +233,7 @@ f  25/37/17 27/26/17 28/38/17
 
 # Mesh 'frm-r_iface' with 4 faces
 g frm-r_iface
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  22/39/15 25/40/15 28/41/15
 f  22/39/15 28/41/15 23/42/15
 f  26/40/12 21/39/12 24/42/12
@@ -241,13 +241,13 @@ f  26/40/12 24/42/12 27/41/12
 
 # Mesh 'frm-r_iface' with 2 faces
 g frm-r_iface
-usemtl JoinedMaterial_#7
+usemtl MainMaterial
 f  24/35/11 23/36/11 28/33/11
 f  24/35/11 28/33/11 27/34/11
 
 # Mesh 'frm-control_box' with 8 faces
 g frm-control_box
-usemtl material691
+usemtl MainMaterial
 f  29/43/18 30/44/19 31/45/20
 f  29/43/18 31/45/20 32/46/20
 f  30/44/19 29/43/18 33/47/21
@@ -259,7 +259,7 @@ f  36/43/23 39/48/25 40/47/25
 
 # Mesh 'frm-control_box' with 10 faces
 g frm-control_box
-usemtl material700
+usemtl MainMaterial
 f  30/49/12 35/50/12 38/51/12
 f  30/49/12 38/51/12 31/52/12
 f  35/50/12 30/49/12 34/53/12
@@ -273,13 +273,13 @@ f  40/55/11 34/57/11 33/58/11
 
 # Mesh 'frm-control_box' with 2 faces
 g frm-control_box
-usemtl JoinedMaterial_#10
+usemtl MainMaterial
 f  32/59/26 31/60/26 38/61/26
 f  32/59/26 38/61/26 37/62/26
 
 # Mesh 'frm-r_emitter' with 10 faces
 g frm-r_emitter
-usemtl JoinedMaterial_#12
+usemtl MainMaterial
 f  41/63/27 42/64/28 43/65/29
 f  41/63/27 43/65/29 44/66/30
 f  42/64/28 45/67/31 46/68/32
@@ -293,7 +293,7 @@ f  47/69/33 42/64/28 41/63/27
 
 # Mesh 'frm-l_emitter' with 10 faces
 g frm-l_emitter
-usemtl JoinedMaterial_#12
+usemtl MainMaterial
 f  49/71/27 50/72/28 51/73/29
 f  49/71/27 51/73/29 52/74/30
 f  50/72/28 53/75/31 54/76/32

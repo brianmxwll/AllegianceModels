@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss100_bound.obj.mtl
 
 # 88 vertex positions
 v  9.33016 9.49489 3.33243
@@ -308,7 +307,6 @@ vn 0.100287 0.989892 -0.100286
 
 # Mesh 'frm-bound01' with 58 faces
 g frm-bound01
-usemtl $Material_0
 f  1//1 2//2 3//3
 f  4//4 1//1 3//5
 f  3//5 5//6 6//7
@@ -370,7 +368,6 @@ f  5//6 40//82 6//7
 
 # Mesh 'frm-bound02' with 12 faces
 g frm-bound02
-usemtl $Material_0
 f  41//83 42//84 43//85
 f  44//86 41//83 43//85
 f  45//87 46//88 47//89
@@ -386,7 +383,6 @@ f  48//94 41//83 44//86
 
 # Mesh 'frm-bound03' with 12 faces
 g frm-bound03
-usemtl $Material_0
 f  51//99 52//100 53//101
 f  54//102 51//99 53//101
 f  51//103 54//104 55//105
@@ -402,7 +398,6 @@ f  57//108 60//114 56//106
 
 # Mesh 'frm-bound04' with 12 faces
 g frm-bound04
-usemtl $Material_0
 f  61//115 62//116 63//117
 f  63//118 64//119 65//120
 f  66//121 63//118 65//120
@@ -418,7 +413,6 @@ f  68//125 70//130 61//115
 
 # Mesh 'frm-bound05' with 44 faces
 g frm-bound05
-usemtl $Material_0
 f  71//131 72//132 73//133
 f  74//134 71//131 73//133
 f  73//135 72//136 75//137
@@ -466,7 +460,6 @@ f  68//138 75//193 81//168
 
 # Mesh 'frm-bound06' with 12 faces
 g frm-bound06
-usemtl $Material_0
 f  85//194 86//195 81//196
 f  79//197 85//194 81//196
 f  87//198 83//199 84//200

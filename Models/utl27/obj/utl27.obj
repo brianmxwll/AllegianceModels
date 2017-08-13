@@ -887,7 +887,7 @@ vn 0.0377601 -2.7305e-007 -0.999287
 
 # Mesh 'frm-fuselg1' with 18 faces
 g frm-fuselg1
-usemtl JoinedMaterial_#38
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/3
 f  5/5/4 6/6/5 2/2/2
@@ -909,7 +909,7 @@ f  13/13/12 16/16/18 12/16/22
 
 # Mesh 'frm-fuselg1' with 90 faces
 g frm-fuselg1
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  2/22/23 21/23/24 22/24/25
 f  2/22/23 22/24/25 3/25/26
 f  21/23/24 23/26/27 22/24/25
@@ -1003,7 +1003,7 @@ f  18/62/86 50/61/63 40/60/85
 
 # Mesh 'frm-lthrust1' with 19 faces
 g frm-lthrust1
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  61/64/88 62/65/88 63/66/89
 f  61/64/88 63/66/89 64/67/90
 f  64/67/90 63/66/89 65/68/91
@@ -1026,7 +1026,7 @@ f  73/82/99 70/87/104 72/88/105
 
 # Mesh 'frm-lthrust2' with 24 faces
 g frm-lthrust2
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  75/89/106 76/90/107 77/91/108
 f  78/92/109 75/89/106 77/91/108
 f  78/92/109 77/91/108 79/93/110
@@ -1054,7 +1054,7 @@ f  75/99/106 92/96/123 76/98/107
 
 # Mesh 'frm-lthrust2' with 4 faces
 g frm-lthrust2
-usemtl JoinedMaterial_#38
+usemtl MainMaterial
 f  90/101/124 87/102/125 83/103/126
 f  86/104/127 90/101/124 83/103/126
 f  80/105/128 86/104/127 83/103/126
@@ -1062,7 +1062,7 @@ f  81/106/129 80/105/128 83/103/126
 
 # Mesh 'frm-lthrust2' with 4 faces
 g frm-lthrust2
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  75/107/130 78/108/131 82/109/132
 f  92/110/133 75/107/130 82/109/132
 f  89/111/134 92/110/133 82/109/132
@@ -1070,7 +1070,7 @@ f  85/112/135 89/111/134 82/109/132
 
 # Mesh 'frm-fuselg2' with 6 faces
 g frm-fuselg2
-usemtl JoinedMaterial_#38
+usemtl MainMaterial
 f  93/113/136 94/114/137 95/115/138
 f  93/113/136 95/115/138 96/116/138
 f  97/117/139 98/118/140 94/114/137
@@ -1080,7 +1080,7 @@ f  99/119/141 98/118/140 97/117/139
 
 # Mesh 'frm-fuselg2' with 64 faces
 g frm-fuselg2
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  101/121/143 102/122/144 103/123/145
 f  101/121/143 103/123/145 104/124/146
 f  102/122/144 96/125/147 103/123/145
@@ -1148,7 +1148,7 @@ f  131/147/181 119/148/165 132/153/182
 
 # Mesh 'frm-fuselg2' with 6 faces
 g frm-fuselg2
-usemtl material1494
+usemtl MainMaterial
 f  129/154/189 118/155/190 135/156/191
 f  129/154/189 114/157/192 118/155/190
 f  118/155/190 115/158/193 137/159/193
@@ -1158,7 +1158,7 @@ f  138/160/193 137/162/193 115/158/193
 
 # Mesh 'frm-fuselg2' with 4 faces
 g frm-fuselg2
-usemtl material1503
+usemtl MainMaterial
 f  117/163/194 129/164/195 128/165/196
 f  117/163/194 114/166/197 129/164/195
 f  128/165/196 99/167/193 117/163/194
@@ -1166,7 +1166,7 @@ f  128/165/196 100/168/193 99/167/193
 
 # Mesh 'frm-lwingzz' with 4 faces
 g frm-lwingzz
-usemtl JoinedMaterial_#38
+usemtl MainMaterial
 f  139/169/198 140/170/199 141/171/200
 f  142/172/201 139/169/198 141/171/200
 f  143/173/202 144/174/203 140/170/199
@@ -1174,7 +1174,7 @@ f  139/169/198 143/173/202 140/170/199
 
 # Mesh 'frm-lwingzz' with 5 faces
 g frm-lwingzz
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  145/169/204 146/170/205 144/174/206
 f  143/173/207 145/169/204 144/174/206
 f  142/172/208 141/171/209 146/170/205
@@ -1183,12 +1183,12 @@ f  144/174/210 146/170/210 141/171/210
 
 # Mesh 'frm-lwingzz' with 1 faces
 g frm-lwingzz
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  140/170/210 144/174/210 141/171/210
 
 # Mesh 'frm-lfinzzz' with 8 faces
 g frm-lfinzzz
-usemtl JoinedMaterial_#20
+usemtl MainMaterial
 f  147/175/211 148/176/212 149/177/213
 f  150/178/214 147/175/211 149/177/213
 f  150/178/214 149/177/213 151/179/215
@@ -1200,7 +1200,7 @@ f  150/186/220 152/185/220 147/184/220
 
 # Mesh 'frm-lfinzzz' with 5 faces
 g frm-lfinzzz
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  147/187/221 155/188/222 148/189/223
 f  153/190/224 151/191/225 156/192/226
 f  154/193/227 153/190/224 156/192/226
@@ -1209,18 +1209,18 @@ f  155/188/222 156/192/226 148/189/223
 
 # Mesh 'frm-lfinzzz' with 2 faces
 g frm-lfinzzz
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  148/194/228 156/195/229 149/196/229
 f  156/195/229 151/197/230 149/196/229
 
 # Mesh 'frm-lfinzzz' with 1 faces
 g frm-lfinzzz
-usemtl JoinedMaterial_#23
+usemtl MainMaterial
 f  154//231 155//231 147//231
 
 # Mesh 'frm-SSl' with 8 faces
 g frm-SSl
-usemtl material2087
+usemtl MainMaterial
 f  157//232 158//233 159//234
 f  158//235 157//236 160//237
 f  161//238 157//239 159//240
@@ -1232,7 +1232,7 @@ f  161//253 162//254 160//255
 
 # Mesh 'frm-rwingzz' with 5 faces
 g frm-rwingzz
-usemtl JoinedMaterial_#38
+usemtl MainMaterial
 f  163/171/256 164/170/257 165/169/258
 f  163/171/256 165/169/258 166/172/259
 f  164/170/257 167/174/260 168/173/261
@@ -1241,7 +1241,7 @@ f  163/171/210 167/174/210 164/170/210
 
 # Mesh 'frm-rwingzz' with 5 faces
 g frm-rwingzz
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  167/174/262 169/169/263 168/173/264
 f  170/170/265 163/171/266 166/172/267
 f  170/170/265 166/172/267 169/169/263
@@ -1250,7 +1250,7 @@ f  167/174/262 170/170/265 169/169/263
 
 # Mesh 'frm-rfinzzz' with 8 faces
 g frm-rfinzzz
-usemtl JoinedMaterial_#20
+usemtl MainMaterial
 f  171/198/268 172/189/269 173/187/270
 f  171/198/268 173/187/270 174/188/271
 f  175/191/272 171/198/268 174/188/271
@@ -1262,7 +1262,7 @@ f  173/199/277 176/205/277 174/206/277
 
 # Mesh 'frm-rfinzzz' with 5 faces
 g frm-rfinzzz
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  172/189/278 179/188/279 173/187/280
 f  180/192/281 175/191/282 177/190/283
 f  180/192/281 177/190/283 178/193/284
@@ -1271,18 +1271,18 @@ f  172/189/278 180/192/281 179/188/279
 
 # Mesh 'frm-rfinzzz' with 2 faces
 g frm-rfinzzz
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  171/196/285 180/195/285 172/194/286
 f  171/196/285 175/197/287 180/195/285
 
 # Mesh 'frm-rfinzzz' with 1 faces
 g frm-rfinzzz
-usemtl JoinedMaterial_#23
+usemtl MainMaterial
 f  173//288 179//288 178//288
 
 # Mesh 'frm-SSr' with 8 faces
 g frm-SSr
-usemtl material2441
+usemtl MainMaterial
 f  181//237 182//235 183//236
 f  184//234 183//232 182//233
 f  181//243 183//241 185//242
@@ -1294,7 +1294,7 @@ f  184//252 186//250 185//251
 
 # Mesh 'frm-LLr1' with 10 faces
 g frm-LLr1
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  187/207/210 188/208/210 189/209/210
 f  187/207/210 189/209/210 190/210/210
 f  188/211/289 191/212/289 192/213/289
@@ -1308,13 +1308,13 @@ f  190/213/290 192/208/290 194/207/290
 
 # Mesh 'frm-LLr1' with 2 faces
 g frm-LLr1
-usemtl material2571
+usemtl MainMaterial
 f  191/209/291 193/210/291 194/207/291
 f  191/209/291 194/207/291 192/208/291
 
 # Mesh 'frm-LLr2' with 6 faces
 g frm-LLr2
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  195/215/210 196/216/210 197/217/210
 f  195/215/210 197/217/210 198/218/210
 f  199/216/291 200/215/291 201/218/291
@@ -1324,13 +1324,13 @@ f  200/218/193 198/220/193 201/215/193
 
 # Mesh 'frm-LLr2' with 2 faces
 g frm-LLr2
-usemtl material2696
+usemtl MainMaterial
 f  196/220/292 199/215/292 202/218/292
 f  196/220/292 202/218/292 197/219/292
 
 # Mesh 'frm-LLr3' with 8 faces
 g frm-LLr3
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  203/221/210 204/222/210 205/223/210
 f  203/221/210 205/223/210 206/224/210
 f  204/225/289 207/226/289 208/227/289
@@ -1342,7 +1342,7 @@ f  209/227/193 206/225/193 210/226/193
 
 # Mesh 'frm-LLl1' with 12 faces
 g frm-LLl1
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  211/209/210 212/210/210 213/207/210
 f  211/209/210 213/207/210 214/208/210
 f  212/211/193 215/212/193 216/213/193
@@ -1358,7 +1358,7 @@ f  218/208/290 212/213/290 211/214/290
 
 # Mesh 'frm-LLl2' with 8 faces
 g frm-LLl2
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  219/218/210 220/217/210 221/216/210
 f  219/218/210 221/216/210 222/215/210
 f  220/220/293 223/215/293 224/218/293
@@ -1370,7 +1370,7 @@ f  225/218/289 219/219/289 222/220/289
 
 # Mesh 'frm-LLl3' with 8 faces
 g frm-LLl3
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  227/223/210 228/224/210 229/221/210
 f  227/223/210 229/221/210 230/222/210
 f  228/225/193 231/226/193 232/227/193
@@ -1382,7 +1382,7 @@ f  233/227/289 230/225/289 234/226/289
 
 # Mesh 'frm-LLf1' with 12 faces
 g frm-LLf1
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  235/209/210 236/210/210 237/207/210
 f  235/209/210 237/207/210 238/208/210
 f  236/211/193 239/212/193 240/213/193
@@ -1398,7 +1398,7 @@ f  242/208/290 236/213/290 235/214/290
 
 # Mesh 'frm-LLf2' with 8 faces
 g frm-LLf2
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  243/229/210 244/227/210 245/226/210
 f  243/229/210 245/226/210 246/230/210
 f  244/222/294 247/231/294 248/232/294
@@ -1410,7 +1410,7 @@ f  249/232/289 246/222/289 250/231/289
 
 # Mesh 'frm-LLf3' with 8 faces
 g frm-LLf3
-usemtl JoinedMaterial_#35
+usemtl MainMaterial
 f  251/223/210 252/224/210 253/221/210
 f  251/223/210 253/221/210 254/222/210
 f  252/225/193 255/226/193 256/227/193
@@ -1422,7 +1422,7 @@ f  257/227/289 254/225/289 258/226/289
 
 # Mesh 'frm-rthrust1' with 19 faces
 g frm-rthrust1
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  259/66/295 260/65/296 261/64/296
 f  262/67/297 259/66/295 261/64/296
 f  263/68/298 259/66/295 262/67/297
@@ -1445,7 +1445,7 @@ f  270/83/311 268/84/309 272/82/307
 
 # Mesh 'frm-rthrust2' with 24 faces
 g frm-rthrust2
-usemtl JoinedMaterial_#37
+usemtl MainMaterial
 f  273/91/312 274/90/313 275/89/314
 f  273/91/312 275/89/314 276/92/315
 f  277/93/316 273/91/312 276/92/315
@@ -1473,7 +1473,7 @@ f  274/98/313 290/96/329 275/99/314
 
 # Mesh 'frm-rthrust2' with 4 faces
 g frm-rthrust2
-usemtl JoinedMaterial_#38
+usemtl MainMaterial
 f  281/103/330 285/106/331 288/105/332
 f  281/103/330 288/105/332 284/104/333
 f  281/103/330 284/104/333 278/101/334
@@ -1481,7 +1481,7 @@ f  281/103/330 278/101/334 279/102/335
 
 # Mesh 'frm-rthrust2' with 4 faces
 g frm-rthrust2
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  280/111/336 276/110/337 275/107/338
 f  280/111/336 275/107/338 290/108/339
 f  280/111/336 290/108/339 287/109/340
@@ -1489,7 +1489,7 @@ f  280/111/336 287/109/340 283/112/341
 
 # Mesh 'frm-SSf' with 8 faces
 g frm-SSf
-usemtl JoinedMaterial_#41
+usemtl MainMaterial
 f  291//232 292//233 293//234
 f  292//235 291//236 294//237
 f  295//238 291//239 293//240
@@ -1501,7 +1501,7 @@ f  295//253 296//254 294//255
 
 # Mesh 'frm-SSm' with 8 faces
 g frm-SSm
-usemtl JoinedMaterial_#41
+usemtl MainMaterial
 f  297//237 298//235 299//236
 f  300//234 299//232 298//233
 f  297//243 299//241 301//242

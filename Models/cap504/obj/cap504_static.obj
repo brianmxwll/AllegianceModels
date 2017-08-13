@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib cap504_static.obj.mtl
 
 # 302 vertex positions
 v  -1.25193 -0.118714 -4.08663
@@ -986,7 +985,6 @@ vn -0.286068 0.118493 -0.950855
 
 # Mesh 'frm-torso' with 40 faces
 g frm-torso
-usemtl JoinedMaterial_#4
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 2/2/2 4/4/4
 f  4/4/4 2/2/2 5/5/5
@@ -1030,7 +1028,6 @@ f  35/27/48 28/31/50 34/30/47
 
 # Mesh 'frm-torso' with 440 faces
 g frm-torso
-usemtl JoinedMaterial_#7
 f  36/33/51 37/34/52 38/35/53
 f  38/35/53 37/34/52 39/36/54
 f  39/36/54 40/37/55 38/35/53
@@ -1474,7 +1471,6 @@ f  240/121/327 98/123/126 7/122/343
 
 # Mesh 'frm-head' with 124 faces
 g frm-head
-usemtl JoinedMaterial_#7
 f  242/137/371 243/138/372 244/139/373
 f  232/140/374 244/139/373 243/138/372
 f  232/140/374 243/138/372 245/141/375

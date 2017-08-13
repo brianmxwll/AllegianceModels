@@ -66,7 +66,7 @@ vn -0 1 0
 
 # Mesh 'frm-card' with 14 faces
 g frm-card
-usemtl material252
+usemtl MainMaterial
 f  1/1/1 2/2/1 3/3/1
 f  1/1/1 3/3/1 4/4/1
 f  5/5/2 6/6/2 7/7/2
@@ -84,7 +84,7 @@ f  10/28/6 6/29/6 5/31/6
 
 # Mesh 'frm-card' with 10 faces
 g frm-card
-usemtl material261
+usemtl MainMaterial
 f  11/32/6 12/33/6 13/33/6
 f  11/32/6 13/33/6 14/32/6
 f  2/34/1 1/34/1 13/33/1

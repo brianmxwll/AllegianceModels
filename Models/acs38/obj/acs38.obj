@@ -287,7 +287,7 @@ vn -0.330425 0.287722 0.898908
 
 # Mesh 'frm-reactor_sphere' with 64 faces
 g frm-reactor_sphere
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  2/2/2 4/4/4 3/3/3
 f  2/2/2 1/1/1 5/5/5
@@ -355,7 +355,7 @@ f  31/31/31 22/22/22 19/19/19
 
 # Mesh 'frm-main_core' with 16 faces
 g frm-main_core
-usemtl material557
+usemtl MainMaterial
 f  35/35/35 36/36/36 37/37/37
 f  35/35/35 37/37/37 38/38/38
 f  39/39/39 35/35/35 38/38/38
@@ -375,7 +375,7 @@ f  36/41/47 41/45/47 45/46/47
 
 # Mesh 'frm-main_core' with 4 faces
 g frm-main_core
-usemtl material566
+usemtl MainMaterial
 f  43/47/48 40/48/48 38/49/48
 f  43/47/48 38/49/48 37/50/48
 f  43/47/48 37/50/48 46/51/48
@@ -383,7 +383,7 @@ f  43/47/48 46/51/48 44/52/48
 
 # Mesh 'frm-core_tip' with 16 faces
 g frm-core_tip
-usemtl material715
+usemtl MainMaterial
 f  47/35/49 48/53/50 49/54/51
 f  47/35/49 49/54/51 50/55/52
 f  51/56/53 47/35/49 50/55/52
@@ -403,28 +403,28 @@ f  53/59/47 51/63/47 54/64/47
 
 # Mesh 'frm-pin3' with 3 faces
 g frm-pin3
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  59/65/61 60/66/61 61/67/61
 f  60/66/62 62/68/62 61/67/62
 f  62/68/63 59/65/63 61/67/63
 
 # Mesh 'frm-pin1' with 3 faces
 g frm-pin1
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  63/65/61 64/66/61 65/67/61
 f  64/66/62 66/68/62 65/67/62
 f  66/68/63 63/65/63 65/67/63
 
 # Mesh 'frm-pin2' with 3 faces
 g frm-pin2
-usemtl JoinedMaterial_#6
+usemtl MainMaterial
 f  67/69/64 68/70/64 69/71/64
 f  68/70/65 70/72/65 69/71/65
 f  70/72/66 67/69/66 69/71/66
 
 # Mesh 'frm-reactor_sphere1' with 64 faces
 g frm-reactor_sphere1
-usemtl material1141
+usemtl MainMaterial
 f  71//67 72//68 73//69
 f  74//70 71//67 73//69
 f  75//71 74//70 73//69

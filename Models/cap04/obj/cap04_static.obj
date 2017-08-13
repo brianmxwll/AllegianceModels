@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib cap04_static.obj.mtl
 
 # 232 vertex positions
 v  -2.27317 -1.45443 0.1771
@@ -901,7 +900,6 @@ vn 0.176839 0.253026 0.95116
 
 # Mesh 'frm-rwingzz1_1' with 27 faces
 g frm-rwingzz1_1
-usemtl JoinedMaterial_#22
 f  1/1/1 2/2/2 3/3/2
 f  1/1/1 3/3/2 4/4/3
 f  1/1/1 4/4/3 5/5/4
@@ -932,7 +930,6 @@ f  4/22/27 16/20/22 17/21/24
 
 # Mesh 'frm-rwingzz2_1' with 20 faces
 g frm-rwingzz2_1
-usemtl JoinedMaterial_#22
 f  18/24/29 19/25/30 20/26/30
 f  18/24/29 20/26/30 21/27/31
 f  22/28/32 18/24/29 21/27/31
@@ -956,7 +953,6 @@ f  23/39/40 21/35/40 29/36/40
 
 # Mesh 'frm-rantenn_1' with 46 faces
 g frm-rantenn_1
-usemtl JoinedMaterial_#22
 f  30/40/41 31/41/42 32/42/43
 f  30/40/41 32/42/43 33/43/44
 f  33/43/45 32/42/46 31/41/47
@@ -1006,7 +1002,6 @@ f  52/67/40 50/63/40 49/62/40
 
 # Mesh 'frm-fuselage_1' with 176 faces
 g frm-fuselage_1
-usemtl JoinedMaterial_#22
 f  55/69/101 56/70/102 57/71/103
 f  55/69/101 57/71/103 58/72/104
 f  59/73/105 58/72/106 57/71/107
@@ -1186,7 +1181,6 @@ f  56/164/102 135/160/274 57/161/103
 
 # Mesh 'frm-bturret_1' with 20 faces
 g frm-bturret_1
-usemtl JoinedMaterial_#22
 f  145/205/275 146/206/276 147/207/277
 f  147/207/277 146/206/276 148/208/278
 f  149/209/279 147/207/277 148/208/278
@@ -1210,7 +1204,6 @@ f  154/214/283 149/209/279 156/216/285
 
 # Mesh 'frm-tturret1_1' with 20 faces
 g frm-tturret1_1
-usemtl JoinedMaterial_#22
 f  158/205/287 159/206/288 160/207/289
 f  160/207/289 159/206/288 161/208/290
 f  162/209/291 160/207/289 161/208/290
@@ -1234,7 +1227,6 @@ f  167/214/296 162/209/291 169/216/298
 
 # Mesh 'frm-lwingzz1_1' with 24 faces
 g frm-lwingzz1_1
-usemtl JoinedMaterial_#22
 f  171/218/300 172/219/301 173/220/302
 f  171/218/300 173/220/302 174/221/303
 f  175/222/304 176/223/305 171/218/300
@@ -1262,7 +1254,6 @@ f  176/236/323 184/233/315 171/241/322
 
 # Mesh 'frm-lwingzz2_1' with 20 faces
 g frm-lwingzz2_1
-usemtl JoinedMaterial_#22
 f  188/242/324 189/243/325 190/244/326
 f  188/242/324 190/244/326 191/245/327
 f  192/26/328 188/242/324 191/245/327
@@ -1286,7 +1277,6 @@ f  199/251/40 192/255/40 197/256/40
 
 # Mesh 'frm-lantenn_1' with 22 faces
 g frm-lantenn_1
-usemtl JoinedMaterial_#22
 f  200/57/330 201/56/330 202/55/330
 f  203/58/331 200/57/331 202/55/331
 f  204/59/332 203/58/332 202/55/332
@@ -1312,7 +1302,6 @@ f  205/62/40 208/63/40 212/67/40
 
 # Mesh 'frm-lantenn_1' with 24 faces
 g frm-lantenn_1
-usemtl material4744
 f  217/42/358 218/41/359 219/40/360
 f  220/43/361 217/42/358 219/40/360
 f  219/40/362 218/41/363 220/43/364
@@ -1340,7 +1329,6 @@ f  222/52/378 213/47/369 220/43/364
 
 # Mesh 'frm-finzzz_1' with 10 faces
 g frm-finzzz_1
-usemtl JoinedMaterial_#22
 f  225/257/382 93/258/383 226/259/382
 f  226/259/382 227/260/384 225/257/382
 f  93/258/385 225/257/386 228/261/386

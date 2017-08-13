@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib shield0.obj.mtl
 
 # 37 vertex positions
 v  0.268637 0.943083 0.272559
@@ -96,7 +95,6 @@ vn 0.707107 -0 0.707107
 
 # Mesh '$dummy_node' with 70 faces
 g $dummy_node
-usemtl material123
 f  1//1 2//2 3//3
 f  2//2 4//4 3//3
 f  1//1 3//3 5//5

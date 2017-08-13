@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl103_static.obj.mtl
 
 # 250 vertex positions
 v  0.840358 1.13457 -1.40086
@@ -883,7 +882,6 @@ vn -0.780632 0.403736 0.477086
 
 # Mesh 'frm-canopy_1_1' with 48 faces
 g frm-canopy_1_1
-usemtl JoinedMaterial_#14
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 4/4/4 1/1/1
 f  5/5/5 3/3/3 2/2/2
@@ -935,13 +933,11 @@ f  15/44/17 28/38/67 14/42/16
 
 # Mesh 'frm-canopy_1_1' with 2 faces
 g frm-canopy_1_1
-usemtl material343
 f  7//73 6//74 2//73
 f  1//73 7//73 2//73
 
 # Mesh 'frm-rt-wing1' with 36 faces
 g frm-rt-wing1
-usemtl JoinedMaterial_#14
 f  29/45/75 30/46/76 31/47/77
 f  30/46/76 32/48/78 33/49/79
 f  34/50/80 30/46/76 33/49/79
@@ -981,12 +977,10 @@ f  43/59/96 29/45/99 45/61/100
 
 # Mesh 'frm-cube1' with 1 faces
 g frm-cube1
-usemtl JoinedMaterial_#14
 l  49/65 50/66
 
 # Mesh 'frm-cube1' with 44 faces
 g frm-cube1
-usemtl JoinedMaterial_#14
 f  51/67/120 52/68/121 53/69/122
 f  54/70/123 51/67/120 53/69/122
 f  55/71/124 53/69/122 52/68/121
@@ -1034,7 +1028,6 @@ f  56/72/158 72/72/158 61/77/158
 
 # Mesh 'frm-cube3_1' with 10 faces
 g frm-cube3_1
-usemtl JoinedMaterial_#14
 f  73/80/159 74/81/160 75/82/161
 f  76/83/162 73/80/159 75/82/161
 f  77/84/163 78/85/164 74/81/160
@@ -1048,7 +1041,6 @@ f  75/82/161 74/81/160 80/87/166
 
 # Mesh 'frm-cyl2' with 40 faces
 g frm-cyl2
-usemtl JoinedMaterial_#14
 f  81/88/170 82/89/171 83/90/172
 f  84/91/173 81/88/170 83/90/172
 f  83/90/172 85/92/174 86/93/175
@@ -1092,7 +1084,6 @@ f  81/108/196 84/111/199 96/110/198
 
 # Mesh 'frm-cyl3_1' with 40 faces
 g frm-cyl3_1
-usemtl JoinedMaterial_#14
 f  105/89/200 106/88/201 107/91/202
 f  108/90/203 105/89/200 107/91/202
 f  108/90/203 107/91/202 109/103/204
@@ -1136,7 +1127,6 @@ f  111/107/226 127/106/229 128/109/228
 
 # Mesh 'frm-cyl5' with 40 faces
 g frm-cyl5
-usemtl JoinedMaterial_#14
 f  129/89/230 130/88/231 131/91/232
 f  132/90/233 129/89/230 131/91/232
 f  132/90/233 131/91/232 133/103/234
@@ -1180,7 +1170,6 @@ f  135/107/256 151/106/259 152/109/258
 
 # Mesh 'frm-cyl4' with 40 faces
 g frm-cyl4
-usemtl JoinedMaterial_#14
 f  153/88/260 154/89/261 155/90/262
 f  156/91/263 153/88/260 155/90/262
 f  155/90/262 157/92/264 158/93/265
@@ -1224,7 +1213,6 @@ f  153/108/286 156/111/289 168/110/288
 
 # Mesh 'frm-rt-wing3' with 36 faces
 g frm-rt-wing3
-usemtl JoinedMaterial_#14
 f  177/47/290 178/46/291 179/45/292
 f  179/45/292 178/46/293 180/62/294
 f  181/57/295 182/58/296 179/45/297
@@ -1264,7 +1252,6 @@ f  185/63/333 178/46/334 183/48/335
 
 # Mesh 'frm-canopy_1_1_1' with 72 faces
 g frm-canopy_1_1_1
-usemtl JoinedMaterial_#14
 f  197/112/336 198/113/337 199/114/338
 f  199/114/339 198/113/337 200/115/340
 f  201/116/341 199/114/339 200/115/340
@@ -1340,7 +1327,6 @@ f  207/122/430 203/118/431 208/123/370
 
 # Mesh 'frm-extru2_1' with 24 faces
 g frm-extru2_1
-usemtl JoinedMaterial_#14
 f  237/138/432 238/139/433 239/138/432
 f  238/140/434 240/141/435 241/142/436
 f  240/141/437 242/143/438 241/142/439

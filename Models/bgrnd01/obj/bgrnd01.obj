@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib bgrnd01.obj.mtl
 
 # 14 vertex positions
 v  -0.637707 -0.867128 -0.931483
@@ -82,7 +81,6 @@ vn 0.467973 -0.881699 0.0600644
 
 # Mesh 'frm-bgnd01' with 24 faces
 g frm-bgnd01
-usemtl material219
 f  1/1/1 2/2/2 3/3/3
 f  2/2/2 1/1/4 4/4/5
 f  2/2/2 4/4/5 5/5/6

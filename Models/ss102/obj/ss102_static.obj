@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss102_static.obj.mtl
 
 # 296 vertex positions
 v  -9.79841 -19.5685 -0.707939
@@ -1222,7 +1221,6 @@ vn -1 -0.000245438 -5.99084e-008
 
 # Mesh 'frm-extru1' with 276 faces
 g frm-extru1
-usemtl JoinedMaterial_#11
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 5/5/5 2/2/2
 f  6/6/6 4/4/4 2/2/2
@@ -1502,7 +1500,6 @@ f  3/168/241 7/168/9 5/169/305
 
 # Mesh 'frm-extru8' with 276 faces
 g frm-extru8
-usemtl JoinedMaterial_#11
 f  141/3/306 142/2/307 143/1/308
 f  144/7/309 143/1/310 142/2/307
 f  142/2/307 145/5/311 146/6/312
@@ -1782,7 +1779,6 @@ f  145/169/605 147/168/313 141/168/606
 
 # Mesh 'frm-east_bay_11_8' with 8 faces
 g frm-east_bay_11_8
-usemtl material4488
 f  281/230/607 282/231/608 283/232/607
 f  284/233/609 281/230/607 283/232/607
 f  282/234/610 285/235/611 286/236/610
@@ -1794,7 +1790,6 @@ f  286/231/618 285/232/616 288/230/616
 
 # Mesh 'frm-east_bay_11_8' with 18 faces
 g frm-east_bay_11_8
-usemtl JoinedMaterial_#14
 f  289/238/619 290/239/620 287/240/621
 f  285/241/622 289/238/619 287/240/621
 f  282/242/623 281/243/624 291/244/625

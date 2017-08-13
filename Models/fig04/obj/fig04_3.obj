@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib fig04_3.obj.mtl
 
 # 93 vertex positions
 v  0.024389 1.41326 -0.141092
@@ -480,7 +479,6 @@ vn -0.904498 0.301606 0.301526
 
 # Mesh '$dummy_node' with 11 faces
 g $dummy_node
-usemtl material324
 f  1/1/1 2/2/2 3/3/2
 f  3/3/2 2/2/2 4/4/3
 f  5/5/4 6/6/5 7/7/5
@@ -495,7 +493,6 @@ f  14/22/15 2/23/11 13/3/13
 
 # Mesh '$dummy_node' with 19 faces
 g $dummy_node
-usemtl material331
 f  15/24/16 16/25/16 17/26/17
 f  16/25/16 15/24/16 18/27/18
 f  18/27/19 15/24/19 17/26/19
@@ -518,19 +515,16 @@ f  36/54/43 40/53/45 38/56/43
 
 # Mesh '$dummy_node' with 2 faces
 g $dummy_node
-usemtl material338
 f  40/57/46 35/58/46 38/59/46
 f  37/60/47 36/61/47 39/62/47
 
 # Mesh '$dummy_node' with 2 faces
 g $dummy_node
-usemtl material345
 f  12/63/48 9/64/48 11/65/49
 f  9/64/48 12/66/48 10/67/50
 
 # Mesh '$dummy_node' with 16 faces
 g $dummy_node
-usemtl material352
 f  41//51 42//52 43//53
 f  42//54 41//55 44//56
 f  45//57 41//58 43//59
@@ -550,25 +544,21 @@ f  50//71 48//88 52//89
 
 # Mesh '$dummy_node' with 3 faces
 g $dummy_node
-usemtl material359
 f  13/68/90 3/69/90 4/70/91
 f  2/71/92 14/72/92 4/73/92
 f  1/74/93 3/75/90 13/76/90
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material366
 f  31/77/94 25/78/94 27/79/94
 
 # Mesh '$dummy_node' with 2 faces
 g $dummy_node
-usemtl material373
 f  26/80/95 30/81/95 28/82/96
 f  26/80/95 29/83/97 30/81/95
 
 # Mesh '$dummy_node' with 11 faces
 g $dummy_node
-usemtl material380
 f  53/84/98 54/85/99 55/86/100
 f  56/87/101 54/85/99 57/88/102
 f  54/85/99 58/89/103 57/88/102
@@ -583,7 +573,6 @@ f  56/87/101 65/96/112 55/91/113
 
 # Mesh '$dummy_node' with 7 faces
 g $dummy_node
-usemtl material387
 f  55/97/114 62/98/115 53/99/115
 f  59/100/116 64/101/116 56/102/116
 f  64/103/117 57/104/117 60/105/118
@@ -594,12 +583,10 @@ f  58/111/123 53/110/122 63/109/122
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material394
 f  66/112/124 67/112/124 68/113/124
 
 # Mesh '$dummy_node' with 11 faces
 g $dummy_node
-usemtl material401
 f  58/114/125 67/115/125 66/116/126
 f  67/115/125 58/114/127 63/117/128
 f  69/118/129 56/119/129 62/120/130
@@ -614,7 +601,6 @@ f  65/135/143 69/136/132 55/137/132
 
 # Mesh '$dummy_node' with 32 faces
 g $dummy_node
-usemtl material408
 f  70//144 71//145 72//146
 f  73//147 70//148 72//149
 f  74//150 73//151 72//152

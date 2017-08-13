@@ -1478,7 +1478,7 @@ vn -0.94281 -0.333331 0
 
 # Mesh 'frm-tractr1' with 18 faces
 g frm-tractr1
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 5/5/5 3/3/6
 f  6/6/7 5/5/5 4/4/4
@@ -1500,7 +1500,7 @@ f  10/24/23 9/25/10 11/17/16
 
 # Mesh 'frm-tractr1b' with 10 faces
 g frm-tractr1b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  12/26/24 13/27/25 14/28/26
 f  13/27/27 12/26/28 15/28/29
 f  16/29/30 12/26/24 14/28/26
@@ -1514,7 +1514,7 @@ f  18/31/35 13/27/27 15/28/29
 
 # Mesh 'frm-tractr1a' with 18 faces
 g frm-tractr1a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  19/32/36 20/33/37 21/34/38
 f  22/35/39 19/32/36 21/34/38
 f  20/33/37 23/36/40 21/34/38
@@ -1536,7 +1536,7 @@ f  25/38/52 27/52/55 26/39/56
 
 # Mesh 'frm-shield1b' with 12 faces
 g frm-shield1b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  30/53/57 31/54/58 32/55/57
 f  30/53/57 32/55/57 33/56/59
 f  31/54/60 34/57/61 35/58/60
@@ -1552,7 +1552,7 @@ f  33/56/69 32/55/73 35/58/72
 
 # Mesh 'frm-shield1a' with 12 faces
 g frm-shield1a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  38/61/74 39/62/75 40/63/74
 f  38/61/74 40/63/74 41/64/76
 f  39/62/77 42/65/78 43/66/77
@@ -1568,7 +1568,7 @@ f  41/64/86 40/63/90 43/66/89
 
 # Mesh 'frm-tractr4' with 18 faces
 g frm-tractr4
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  46/69/91 47/70/92 48/71/93
 f  49/72/94 50/73/95 48/71/96
 f  47/74/92 46/75/91 51/76/97
@@ -1590,7 +1590,7 @@ f  55/100/113 52/102/98 56/103/111
 
 # Mesh 'frm-tractr4a' with 18 faces
 g frm-tractr4a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  57/104/114 58/105/115 59/106/116
 f  58/105/115 60/107/117 59/106/116
 f  58/108/118 57/109/119 61/110/120
@@ -1612,7 +1612,7 @@ f  61/110/130 63/113/133 62/111/134
 
 # Mesh 'frm-shield4b' with 12 faces
 g frm-shield4b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  68/124/135 69/125/136 70/126/135
 f  68/124/135 70/126/135 71/127/137
 f  69/128/138 72/128/139 73/33/138
@@ -1628,7 +1628,7 @@ f  74/131/144 69/128/151 68/131/145
 
 # Mesh 'frm-shield4a' with 12 faces
 g frm-shield4a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  76/134/152 77/135/153 78/136/152
 f  76/134/152 78/136/152 79/137/154
 f  77/135/155 80/135/156 81/136/155
@@ -1644,7 +1644,7 @@ f  82/134/161 77/135/168 76/134/162
 
 # Mesh 'frm-tractr4b' with 10 faces
 g frm-tractr4b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  84/138/169 85/139/170 86/140/171
 f  85/139/172 84/138/173 87/141/174
 f  88/142/175 84/138/169 86/140/171
@@ -1658,7 +1658,7 @@ f  90/144/180 85/139/172 87/141/174
 
 # Mesh 'frm-tractr3' with 18 faces
 g frm-tractr3
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  91/145/181 92/146/182 93/147/183
 f  92/148/182 91/149/181 94/150/184
 f  92/148/182 94/150/184 95/151/185
@@ -1680,7 +1680,7 @@ f  100/175/203 95/177/185 101/178/202
 
 # Mesh 'frm-tractr3a' with 18 faces
 g frm-tractr3a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  102/179/204 103/180/205 104/181/206
 f  105/182/207 102/179/204 104/181/206
 f  103/183/208 102/184/209 106/185/210
@@ -1702,7 +1702,7 @@ f  106/185/220 109/189/223 107/188/224
 
 # Mesh 'frm-shield3b' with 12 faces
 g frm-shield3b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  113/200/225 114/201/226 115/202/225
 f  113/200/225 115/202/225 116/203/227
 f  117/204/228 113/200/229 116/203/230
@@ -1718,7 +1718,7 @@ f  120/207/239 118/205/239 119/206/241
 
 # Mesh 'frm-shield3a' with 12 faces
 g frm-shield3a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  121/208/242 122/209/243 123/210/242
 f  121/208/242 123/210/242 124/64/244
 f  122/209/245 125/211/246 126/212/245
@@ -1734,7 +1734,7 @@ f  124/64/254 123/210/258 126/212/257
 
 # Mesh 'frm-tractr3b' with 10 faces
 g frm-tractr3b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  129/215/259 130/216/260 131/217/261
 f  130/216/262 129/215/263 132/217/264
 f  133/218/265 129/215/259 131/217/261
@@ -1748,7 +1748,7 @@ f  135/220/270 130/216/262 132/217/264
 
 # Mesh 'frm-tractr2' with 15 faces
 g frm-tractr2
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  136/221/271 137/222/272 138/223/273
 f  139/224/274 140/225/275 138/223/276
 f  137/226/272 136/227/271 141/228/277
@@ -1767,7 +1767,7 @@ f  137/250/272 145/251/286 138/223/273
 
 # Mesh 'frm-tractr2a' with 18 faces
 g frm-tractr2a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  147/252/289 148/33/290 149/253/291
 f  150/254/292 147/252/289 149/253/291
 f  148/33/290 151/252/293 149/253/291
@@ -1789,7 +1789,7 @@ f  153/255/305 155/255/308 154/256/309
 
 # Mesh 'frm-shield2b' with 12 faces
 g frm-shield2b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  158/261/310 159/262/311 160/263/310
 f  158/261/310 160/263/310 161/264/312
 f  159/262/313 162/265/314 163/66/313
@@ -1805,7 +1805,7 @@ f  161/264/322 160/263/326 163/66/325
 
 # Mesh 'frm-shield2a' with 12 faces
 g frm-shield2a
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  166/268/327 167/269/328 168/270/327
 f  166/268/327 168/270/327 169/271/329
 f  167/269/330 170/272/331 171/273/330
@@ -1821,7 +1821,7 @@ f  169/271/339 168/270/343 171/273/342
 
 # Mesh 'frm-tractr2b' with 10 faces
 g frm-tractr2b
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  174/276/344 175/277/345 176/278/346
 f  175/277/347 174/276/348 177/278/349
 f  178/279/350 174/276/344 176/278/346
@@ -1835,7 +1835,7 @@ f  180/281/355 175/277/347 177/278/349
 
 # Mesh 'frm-fuselg' with 128 faces
 g frm-fuselg
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  181/282/356 182/283/357 183/284/358
 f  182/283/357 184/285/359 183/284/358
 f  184/285/359 185/286/360 183/284/358
@@ -1967,7 +1967,7 @@ f  203/304/378 216/316/396 189/290/364
 
 # Mesh 'frm-antenn2' with 4 faces
 g frm-antenn2
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  247/347/438 248/348/438 249/349/438
 f  248/350/439 250/351/439 249/349/439
 f  250/351/440 251/350/440 249/349/440
@@ -1975,7 +1975,7 @@ f  251/348/441 247/347/441 249/349/441
 
 # Mesh 'frm-SSa1_1' with 8 faces
 g frm-SSa1_1
-usemtl material5870
+usemtl MainMaterial
 f  252//442 253//443 254//444
 f  253//445 252//446 255//447
 f  256//448 252//449 254//450
@@ -1987,7 +1987,7 @@ f  256//463 257//464 255//465
 
 # Mesh 'frm-antenn1' with 96 faces
 g frm-antenn1
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  258/352/466 259/353/467 260/354/468
 f  258/352/466 260/354/468 261/355/469
 f  259/353/467 262/356/470 263/357/471
@@ -2087,7 +2087,7 @@ f  280/374/632 274/418/634 277/371/635
 
 # Mesh 'frm-SSa6' with 8 faces
 g frm-SSa6
-usemtl material7149
+usemtl MainMaterial
 f  311//442 312//443 313//444
 f  312//445 311//446 314//447
 f  315//448 311//449 313//450
@@ -2099,7 +2099,7 @@ f  315//463 316//464 314//465
 
 # Mesh 'frm-beacon' with 4 faces
 g frm-beacon
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  317/419/636 318/420/637 319/421/638
 f  320/422/639 321/423/640 319/421/641
 f  317/419/636 319/421/642 321/423/640
@@ -2107,7 +2107,7 @@ f  318/420/637 320/422/639 319/421/643
 
 # Mesh 'frm-SSa1' with 8 faces
 g frm-SSa1
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  322//442 323//443 324//444
 f  323//445 322//446 325//447
 f  326//448 322//449 324//450
@@ -2119,7 +2119,7 @@ f  326//463 327//464 325//465
 
 # Mesh 'frm-SSa2' with 8 faces
 g frm-SSa2
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  328//442 329//443 330//444
 f  329//445 328//446 331//447
 f  332//448 328//449 330//450
@@ -2131,7 +2131,7 @@ f  332//463 333//464 331//465
 
 # Mesh 'frm-SSa5' with 8 faces
 g frm-SSa5
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  334//442 335//443 336//444
 f  335//445 334//446 337//447
 f  338//448 334//449 336//450
@@ -2143,7 +2143,7 @@ f  338//463 339//464 337//465
 
 # Mesh 'frm-SSb1' with 8 faces
 g frm-SSb1
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  340//442 341//443 342//444
 f  341//445 340//446 343//447
 f  344//448 340//449 342//450
@@ -2155,7 +2155,7 @@ f  344//463 345//464 343//465
 
 # Mesh 'frm-SSb2' with 8 faces
 g frm-SSb2
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  346//442 347//443 348//444
 f  347//445 346//446 349//447
 f  350//448 346//449 348//450
@@ -2167,7 +2167,7 @@ f  350//463 351//464 349//465
 
 # Mesh 'frm-SSb3' with 8 faces
 g frm-SSb3
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  352//442 353//443 354//444
 f  353//445 352//446 355//447
 f  356//448 352//449 354//450
@@ -2179,7 +2179,7 @@ f  356//463 357//464 355//465
 
 # Mesh 'frm-SSc1' with 8 faces
 g frm-SSc1
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  358//442 359//443 360//444
 f  359//445 358//446 361//447
 f  362//448 358//449 360//450
@@ -2191,7 +2191,7 @@ f  362//463 363//464 361//465
 
 # Mesh 'frm-SSc2' with 8 faces
 g frm-SSc2
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  364//442 365//443 366//444
 f  365//445 364//446 367//447
 f  368//448 364//449 366//450
@@ -2203,7 +2203,7 @@ f  368//463 369//464 367//465
 
 # Mesh 'frm-SSc3' with 8 faces
 g frm-SSc3
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  370//442 371//443 372//444
 f  371//445 370//446 373//447
 f  374//448 370//449 372//450
@@ -2215,7 +2215,7 @@ f  374//463 375//464 373//465
 
 # Mesh 'frm-SSd1' with 8 faces
 g frm-SSd1
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  376//442 377//443 378//444
 f  377//445 376//446 379//447
 f  380//448 376//449 378//450
@@ -2227,7 +2227,7 @@ f  380//463 381//464 379//465
 
 # Mesh 'frm-SSd2' with 8 faces
 g frm-SSd2
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  382//442 383//443 384//444
 f  383//445 382//446 385//447
 f  386//448 382//449 384//450
@@ -2239,7 +2239,7 @@ f  386//463 387//464 385//465
 
 # Mesh 'frm-SSd3' with 8 faces
 g frm-SSd3
-usemtl JoinedMaterial_#39
+usemtl MainMaterial
 f  388//442 389//443 390//444
 f  389//445 388//446 391//447
 f  392//448 388//449 390//450
@@ -2251,7 +2251,7 @@ f  392//463 393//464 391//465
 
 # Mesh 'frm-launch1' with 4 faces
 g frm-launch1
-usemtl JoinedMaterial_#27
+usemtl MainMaterial
 f  394//644 395//644 396//644
 f  395//645 394//645 397//645
 f  396//646 397//646 394//646

@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib acs56.obj.mtl
 
 # 40 vertex positions
 v  -0.058483 0.000388 -0.18552
@@ -148,7 +147,6 @@ vn -0 0.999967 0.00812862
 
 # Mesh 'frm-wepbas' with 8 faces
 g frm-wepbas
-usemtl JoinedMaterial_#4
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 3/3/3 4/4/1
 f  2/3/2 5/5/4 6/6/5
@@ -160,13 +158,11 @@ f  9/9/8 7/7/6 10/10/9
 
 # Mesh 'frm-wepbas' with 2 faces
 g frm-wepbas
-usemtl JoinedMaterial_#10
 f  10/11/10 11/12/10 12/13/10
 f  10/11/10 12/13/10 9/14/10
 
 # Mesh 'frm-wepbas' with 4 faces
 g frm-wepbas
-usemtl JoinedMaterial_#11
 f  11/15/11 4/16/11 13/17/11
 f  11/15/11 13/17/11 12/18/11
 f  11/15/11 14/19/11 1/20/11
@@ -174,7 +170,6 @@ f  11/15/11 1/20/11 4/16/11
 
 # Mesh 'frm-wepbas' with 14 faces
 g frm-wepbas
-usemtl JoinedMaterial_#7
 f  13/21/12 4/22/13 3/23/14
 f  13/21/12 3/23/14 15/24/15
 f  15/24/15 3/23/14 6/25/16
@@ -192,7 +187,6 @@ f  14/21/20 11/26/27 10/27/21
 
 # Mesh 'frm-wepbar1' with 4 faces
 g frm-wepbar1
-usemtl JoinedMaterial_#4
 f  17/29/28 18/30/29 19/31/28
 f  17/29/28 19/31/28 20/32/30
 f  21/33/31 17/29/32 20/32/31
@@ -200,7 +194,6 @@ f  21/33/31 20/32/31 22/34/33
 
 # Mesh 'frm-wepbar1' with 4 faces
 g frm-wepbar1
-usemtl material476
 f  23/35/34 21/36/35 22/37/34
 f  23/35/34 22/37/34 24/38/36
 f  18/39/37 23/35/38 24/38/37
@@ -208,19 +201,16 @@ f  18/39/37 24/38/37 19/40/39
 
 # Mesh 'frm-wepbar1' with 2 faces
 g frm-wepbar1
-usemtl material485
 f  20//1 19//1 24//1
 f  20//1 24//1 22//1
 
 # Mesh 'frm-wepbar1' with 2 faces
 g frm-wepbar1
-usemtl JoinedMaterial_#7
 f  18/41/10 17/42/10 21/43/10
 f  18/41/10 21/43/10 23/44/10
 
 # Mesh 'frm-wepbar3' with 8 faces
 g frm-wepbar3
-usemtl JoinedMaterial_#10
 f  25/45/27 26/46/27 27/47/27
 f  25/45/27 27/47/27 28/48/27
 f  29/49/40 30/50/40 26/46/40
@@ -232,7 +222,6 @@ f  28/47/41 32/45/41 31/46/41
 
 # Mesh 'frm-wepbar3' with 4 faces
 g frm-wepbar3
-usemtl JoinedMaterial_#11
 f  26/51/10 30/52/10 32/53/10
 f  26/51/10 32/53/10 27/54/10
 f  29/53/1 25/54/1 28/51/1
@@ -240,7 +229,6 @@ f  29/53/1 28/51/1 31/52/1
 
 # Mesh 'frm-wepbar2' with 8 faces
 g frm-wepbar2
-usemtl JoinedMaterial_#10
 f  33/49/27 34/50/27 35/46/27
 f  33/49/27 35/46/27 36/45/27
 f  36/45/42 35/46/42 37/47/42
@@ -252,7 +240,6 @@ f  40/46/17 38/49/17 37/50/17
 
 # Mesh 'frm-wepbar2' with 4 faces
 g frm-wepbar2
-usemtl JoinedMaterial_#11
 f  34/51/10 40/52/10 37/53/10
 f  34/51/10 37/53/10 35/54/10
 f  39/53/1 33/54/1 36/51/1

@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss90-low.obj.mtl
 
 # 189 vertex positions
 v  1.58029 -2.49331 -4.51643
@@ -728,7 +727,6 @@ vn 0.553707 -0.677922 0.48356
 
 # Mesh 'frm-sphere1_1' with 60 faces
 g frm-sphere1_1
-usemtl JoinedMaterial_#16
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  3/3/3 5/5/5 4/4/4
@@ -792,7 +790,6 @@ f  25/9/30 27/14/33 31/14/39
 
 # Mesh 'frm-south_hull_2' with 102 faces
 g frm-south_hull_2
-usemtl JoinedMaterial_#16
 f  33/24/41 34/25/42 35/26/43
 f  35/26/43 36/27/44 33/24/41
 f  36/27/44 37/28/45 33/24/41
@@ -898,7 +895,6 @@ f  51/80/62 36/83/44 35/79/43
 
 # Mesh 'frm-south_hull_2' with 12 faces
 g frm-south_hull_2
-usemtl JoinedMaterial_#11
 f  88/87/127 87/88/128 46/89/129
 f  48/90/127 88/87/127 46/89/129
 f  46/89/129 87/88/128 47/91/130
@@ -914,7 +910,6 @@ f  68/90/138 82/87/136 48/89/136
 
 # Mesh 'frm-east_bay_strut2' with 12 faces
 g frm-east_bay_strut2
-usemtl JoinedMaterial_#16
 f  92/93/139 93/94/140 94/95/141
 f  95/96/142 92/93/139 94/95/141
 f  93/97/140 96/98/143 97/99/144
@@ -930,7 +925,6 @@ f  98/101/158 100/103/159 95/102/156
 
 # Mesh 'frm-east_bay_strut_2' with 16 faces
 g frm-east_bay_strut_2
-usemtl JoinedMaterial_#16
 f  101/106/160 102/107/161 103/108/162
 f  104/109/163 101/106/160 103/108/162
 f  102/106/164 101/107/165 105/108/166
@@ -950,7 +944,6 @@ f  108/116/170 112/115/184 101/117/171
 
 # Mesh 'frm-COLORED_BAY' with 22 faces
 g frm-COLORED_BAY
-usemtl JoinedMaterial_#16
 f  113/122/185 114/123/186 115/124/187
 f  114/123/186 116/125/188 115/124/187
 f  115/124/187 117/126/189 113/122/185
@@ -976,7 +969,6 @@ f  121/137/204 119/140/203 126/138/201
 
 # Mesh 'frm-COLORED_BAY' with 16 faces
 g frm-COLORED_BAY
-usemtl JoinedMaterial_#11
 f  128/145/205 129/146/206 121/147/207
 f  126/148/208 128/145/205 121/147/207
 f  124/149/209 115/150/210 130/151/211
@@ -996,7 +988,6 @@ f  125/167/224 127/168/220 132/166/223
 
 # Mesh 'frm-COLORED_BAY' with 8 faces
 g frm-COLORED_BAY
-usemtl material1824
 f  135/169/225 134/170/226 129/171/227
 f  128/172/228 135/169/225 129/171/227
 f  132/173/229 135/174/225 128/175/228
@@ -1008,7 +999,6 @@ f  129/184/236 134/181/234 130/183/234
 
 # Mesh 'frm-hullroot_1' with 7 faces
 g frm-hullroot_1
-usemtl JoinedMaterial_#11
 f  136/185/237 137/186/238 138/187/239
 f  136/185/237 138/187/239 139/188/240
 f  140/189/241 136/185/242 139/188/243
@@ -1019,7 +1009,6 @@ f  140/189/249 137/186/250 136/185/251
 
 # Mesh 'frm-south_block' with 12 faces
 g frm-south_block
-usemtl material2189
 f  142/191/252 143/192/252 144/193/252
 f  145/194/252 142/191/252 144/193/252
 f  145/195/253 144/196/254 146/197/253
@@ -1035,7 +1024,6 @@ f  144/201/265 143/200/263 146/202/263
 
 # Mesh 'frm-cube1' with 12 faces
 g frm-cube1
-usemtl JoinedMaterial_#16
 f  150/114/127 151/203/127 152/99/127
 f  153/117/127 150/114/127 152/99/127
 f  154/117/256 155/99/256 151/204/256
@@ -1051,7 +1039,6 @@ f  152/117/267 151/114/267 157/99/267
 
 # Mesh 'frm-sphere1' with 60 faces
 g frm-sphere1
-usemtl JoinedMaterial_#16
 f  158/206/268 159/207/269 160/208/270
 f  161/209/271 158/206/268 160/208/270
 f  160/208/270 162/210/272 161/209/271

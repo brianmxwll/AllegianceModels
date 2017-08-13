@@ -115,7 +115,7 @@ vn -0.704034 -0.287722 -0.649271
 
 # Mesh 'frm-acs40' with 64 faces
 g frm-acs40
-usemtl material319
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  5/5/5 4/4/4 3/3/3

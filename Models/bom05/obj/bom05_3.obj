@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib bom05_3.obj.mtl
 
 # 83 vertex positions
 v  0.157414 -0.024894 -2.40696
@@ -426,7 +425,6 @@ vn -0.904524 0.301554 0.301499
 
 # Mesh '$dummy_node' with 24 faces
 g $dummy_node
-usemtl material322
 f  1/1/1 2/2/2 3/3/3
 f  1/1/4 3/3/5 4/4/6
 f  2/2/2 5/5/7 3/3/8
@@ -454,7 +452,6 @@ f  1/23/33 13/14/34 11/24/35
 
 # Mesh '$dummy_node' with 71 faces
 g $dummy_node
-usemtl material329
 f  19/25/36 20/26/37 21/27/37
 f  22/28/38 23/29/39 24/30/40
 f  25/31/41 26/32/42 27/33/43
@@ -529,24 +526,20 @@ f  44/150/72 54/151/71 43/152/86
 
 # Mesh '$dummy_node' with 2 faces
 g $dummy_node
-usemtl material336
 f  14/153/138 15/154/139 8/155/138
 f  8/155/138 5/156/140 14/153/138
 
 # Mesh '$dummy_node' with 2 faces
 g $dummy_node
-usemtl material343
 f  50/157/141 49/158/141 76/159/141
 f  77/160/142 48/161/142 51/162/142
 
 # Mesh '$dummy_node' with 1 faces
 g $dummy_node
-usemtl material350
 f  49/163/143 48/164/143 76/165/143
 
 # Mesh '$dummy_node' with 8 faces
 g $dummy_node
-usemtl material357
 f  78//144 79//145 80//146
 f  81//147 79//148 82//149
 f  78//150 82//151 79//152

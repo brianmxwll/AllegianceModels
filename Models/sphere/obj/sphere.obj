@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib sphere.obj.mtl
 
 # 178 vertex positions
 v  0.373278 0.261658 0.901173
@@ -605,7 +604,6 @@ vn 2.21542e-009 -1 -3.32313e-009
 
 # Mesh 'frm-reciever' with 352 faces
 g frm-reciever
-usemtl material813
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  3/3/3 2/2/2 5/5/5

@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib ss06_static.obj.mtl
 
 # 144 vertex positions
 v  5.40772 2.23994 -8.34898
@@ -558,7 +557,6 @@ vn 0.812213 -0.537074 0.227732
 
 # Mesh 'frm-fuselg' with 128 faces
 g frm-fuselg
-usemtl JoinedMaterial_#10
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 4/4/1 1/1/1
 f  3/3/3 5/5/4 4/4/1
@@ -690,7 +688,6 @@ f  60/70/1 66/80/66 54/62/61
 
 # Mesh 'frm-ranteen' with 60 faces
 g frm-ranteen
-usemtl JoinedMaterial_#10
 f  67/83/67 68/84/68 69/85/69
 f  67/83/67 69/85/69 70/86/70
 f  71/87/71 69/85/72 68/84/73
@@ -754,7 +751,6 @@ f  92/110/161 74/113/163 76/112/164
 
 # Mesh 'frm-SS3' with 8 faces
 g frm-SS3
-usemtl JoinedMaterial_#11
 f  100//165 101//166 102//167
 f  101//168 100//169 103//170
 f  104//171 100//172 102//173
@@ -766,7 +762,6 @@ f  105//186 101//187 103//188
 
 # Mesh 'frm-ranteen1' with 60 faces
 g frm-ranteen1
-usemtl JoinedMaterial_#10
 f  106/85/189 107/84/190 108/83/191
 f  109/86/192 106/85/189 108/83/191
 f  108/83/193 107/84/194 110/87/195
@@ -830,7 +825,6 @@ f  116/112/286 113/113/283 131/110/285
 
 # Mesh 'frm-SS28' with 8 faces
 g frm-SS28
-usemtl JoinedMaterial_#11
 f  139//185 140//183 141//184
 f  142//188 141//186 140//187
 f  139//179 141//177 143//178

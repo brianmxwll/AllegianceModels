@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl105_static.obj.mtl
 
 # 139 vertex positions
 v  0 0.129094 -0.741341
@@ -532,7 +531,6 @@ vn -0.549302 0.588687 0.593055
 
 # Mesh 'frm-extru58' with 40 faces
 g frm-extru58
-usemtl JoinedMaterial_#9
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  5/5/5 3/3/3 2/2/2
@@ -576,7 +574,6 @@ f  8/23/42 15/23/19 12/23/44
 
 # Mesh 'frm-cube1' with 44 faces
 g frm-cube1
-usemtl JoinedMaterial_#9
 f  23/24/45 24/25/46 25/26/47
 f  26/27/48 23/24/45 25/26/47
 f  25/26/47 27/28/49 26/27/48
@@ -624,7 +621,6 @@ f  42/50/85 35/49/84 44/51/90
 
 # Mesh 'frm-bottom_gun1' with 26 faces
 g frm-bottom_gun1
-usemtl JoinedMaterial_#9
 f  47/53/91 48/54/92 49/55/93
 f  50/56/94 47/53/91 49/55/93
 f  49/55/93 51/57/95 50/56/94
@@ -654,7 +650,6 @@ f  57/75/114 60/78/116 62/79/126
 
 # Mesh 'frm-cyl2' with 24 faces
 g frm-cyl2
-usemtl JoinedMaterial_#9
 f  63/80/127 64/81/128 65/82/128
 f  63/83/129 66/84/130 67/85/131
 f  64/86/132 63/83/129 67/85/131
@@ -682,7 +677,6 @@ f  76/86/142 64/83/132 75/85/141
 
 # Mesh 'frm-sphere17' with 24 faces
 g frm-sphere17
-usemtl material1342
 f  77/95/143 78/96/144 79/97/145
 f  77/95/146 80/98/147 81/99/148
 f  77/95/146 81/99/148 82/100/149
@@ -710,7 +704,6 @@ f  86/102/170 95/106/171 84/104/151
 
 # Mesh 'frm-sphere17' with 7 faces
 g frm-sphere17
-usemtl JoinedMaterial_#9
 f  95/107/172 94/108/172 92/109/173
 f  84/110/174 95/107/172 92/109/173
 f  78/111/175 90/112/176 79/113/177
@@ -721,7 +714,6 @@ f  91/115/179 82/114/178 92/109/173
 
 # Mesh 'frm-extru59' with 40 faces
 g frm-extru59
-usemtl JoinedMaterial_#9
 f  96/1/180 97/2/181 98/3/182
 f  99/4/183 96/1/180 98/3/182
 f  100/5/184 98/3/182 97/2/181
@@ -765,7 +757,6 @@ f  103/23/221 110/23/198 107/23/223
 
 # Mesh 'frm-extru60' with 40 faces
 g frm-extru60
-usemtl JoinedMaterial_#9
 f  118/1/224 119/2/225 120/3/226
 f  121/4/227 118/1/224 120/3/226
 f  122/5/228 120/3/226 119/2/225

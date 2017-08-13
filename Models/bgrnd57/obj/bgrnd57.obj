@@ -420,7 +420,7 @@ vn -0.0274132 0.344488 0.93839
 
 # Mesh 'frm-poly' with 256 faces
 g frm-poly
-usemtl material603
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  3/3/3 2/2/2 5/5/5

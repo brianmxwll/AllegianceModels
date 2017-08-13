@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib bgrnd03-low.obj.mtl
 
 # 18 vertex positions
 v  0.294686 -2.32466 -3.08174
@@ -70,7 +69,6 @@ vn -0.677802 0.274452 0.6821
 
 # Mesh 'frm-low' with 32 faces
 g frm-low
-usemtl material261
 f  1/1/1 2/2/2 3/3/3
 f  1/1/1 4/4/4 5/5/5
 f  5/5/5 4/4/4 6/6/6

@@ -73,7 +73,7 @@ vn -0 -0 -1
 
 # Mesh 'frm-TPcargo' with 8 faces
 g frm-TPcargo
-usemtl material260
+usemtl MainMaterial
 f  1/1/1 2/2/1 3/3/1
 f  3/3/2 4/4/2 5/5/2
 f  3/3/1 6/6/1 1/1/1
@@ -85,7 +85,7 @@ f  7/3/4 2/4/4 1/5/4
 
 # Mesh 'frm-TPcargo' with 18 faces
 g frm-TPcargo
-usemtl material269
+usemtl MainMaterial
 f  9/7/5 10/8/5 11/9/5
 f  11/9/5 12/10/5 9/7/5
 f  1/11/5 13/12/5 14/13/5
@@ -107,7 +107,7 @@ f  12/26/12 14/23/13 13/24/12
 
 # Mesh 'frm-TPcargo' with 2 faces
 g frm-TPcargo
-usemtl material278
+usemtl MainMaterial
 f  2/29/14 4/30/14 3/31/14
 f  4/30/14 2/29/14 7/32/14
 

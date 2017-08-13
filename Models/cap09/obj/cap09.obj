@@ -1131,7 +1131,7 @@ vn -0.943047 -0.33266 0
 
 # Mesh 'frm-fuselg' with 309 faces
 g frm-fuselg
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  3/3/3 4/4/4 1/1/5
 f  4/4/4 3/3/3 5/5/6
@@ -1444,7 +1444,7 @@ f  136/94/186 141/91/222 140/93/184
 
 # Mesh 'frm-ltengine' with 20 faces
 g frm-ltengine
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  157/164/223 158/165/224 159/166/225
 f  157/164/223 159/166/225 160/167/226
 f  158/165/227 161/168/228 159/166/225
@@ -1468,7 +1468,7 @@ f  167/164/250 166/171/234 168/167/252
 
 # Mesh 'frm-rbengine' with 20 faces
 g frm-rbengine
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  169/188/253 170/189/254 171/190/255
 f  169/188/253 171/190/255 172/191/256
 f  173/192/257 169/188/253 172/191/256
@@ -1492,7 +1492,7 @@ f  170/182/272 178/184/276 175/183/277
 
 # Mesh 'frm-lbengine' with 20 faces
 g frm-lbengine
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  181/191/278 182/190/279 183/189/280
 f  181/191/278 183/189/280 184/188/281
 f  182/190/282 185/195/283 186/194/284
@@ -1516,7 +1516,7 @@ f  191/191/301 189/193/287 190/192/288
 
 # Mesh 'frm-rtengine' with 20 faces
 g frm-rtengine
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  193/164/303 194/165/304 195/166/305
 f  193/164/303 195/166/305 196/167/306
 f  194/165/304 197/168/307 195/166/305
@@ -1540,7 +1540,7 @@ f  203/208/332 199/211/309 200/210/312
 
 # Mesh 'frm-contwr' with 30 faces
 g frm-contwr
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  205/212/333 206/213/334 207/214/335
 f  205/212/333 207/214/335 208/215/336
 f  209/216/337 205/212/333 208/215/336
@@ -1574,14 +1574,14 @@ f  217/215/357 220/217/361 221/221/352
 
 # Mesh 'frm-antenn' with 3 faces
 g frm-antenn
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  225//362 226//362 227//362
 f  226//363 228//363 227//363
 f  228//364 225//364 227//364
 
 # Mesh 'frm-gun' with 68 faces
 g frm-gun
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  229/244/365 230/245/366 231/246/367
 f  232/247/368 229/244/369 231/246/367
 f  231/246/367 230/245/366 233/248/370
@@ -1653,7 +1653,7 @@ f  263/275/430 233/272/371 261/275/423
 
 # Mesh 'frm-wepemt' with 4 faces
 g frm-wepemt
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  266//437 267//437 268//437
 f  267//438 266//438 269//438
 f  268//44 269//44 266//44
@@ -1661,7 +1661,7 @@ f  269//439 268//439 267//439
 
 # Mesh 'frm-cube1' with 10 faces
 g frm-cube1
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  270/281/440 271/282/441 272/283/442
 f  273/284/443 270/281/440 272/283/442
 f  274/285/444 275/286/445 271/282/441
@@ -1675,7 +1675,7 @@ f  276/287/446 274/285/444 273/284/443
 
 # Mesh 'frm-turwepemt1' with 4 faces
 g frm-turwepemt1
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  278//448 279//448 280//448
 f  279//449 278//449 281//449
 f  280//55 281//55 278//55
@@ -1683,7 +1683,7 @@ f  281//450 280//450 279//450
 
 # Mesh 'frm-cube1_1' with 10 faces
 g frm-cube1_1
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  282/281/440 283/282/441 284/283/442
 f  285/284/443 282/281/440 284/283/442
 f  286/285/444 287/286/445 283/282/441
@@ -1697,7 +1697,7 @@ f  288/287/446 286/285/444 285/284/443
 
 # Mesh 'frm-turwepemt2' with 4 faces
 g frm-turwepemt2
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  290//448 291//448 292//448
 f  291//449 290//449 293//449
 f  292//55 293//55 290//55
@@ -1705,7 +1705,7 @@ f  293//450 292//450 291//450
 
 # Mesh 'frm-cube1_4' with 10 faces
 g frm-cube1_4
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  294/281/451 295/282/452 296/283/451
 f  297/284/453 294/281/451 296/283/451
 f  294/281/454 298/285/455 295/282/456
@@ -1719,7 +1719,7 @@ f  300/287/461 301/288/467 299/286/462
 
 # Mesh 'frm-turwepemt3' with 4 faces
 g frm-turwepemt3
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  302//448 303//448 304//448
 f  303//449 302//449 305//449
 f  304//55 305//55 302//55
@@ -1727,7 +1727,7 @@ f  305//450 304//450 303//450
 
 # Mesh 'frm-cube1_6' with 10 faces
 g frm-cube1_6
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  306/282/468 307/281/469 308/284/468
 f  309/283/470 306/282/468 308/284/468
 f  310/286/471 311/285/472 307/281/473
@@ -1741,7 +1741,7 @@ f  313/288/481 309/283/481 312/287/482
 
 # Mesh 'frm-turwepemt4' with 4 faces
 g frm-turwepemt4
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  314//483 315//483 316//483
 f  317//484 316//484 315//484
 f  316//55 317//55 314//55
@@ -1749,7 +1749,7 @@ f  315//450 314//450 317//450
 
 # Mesh 'frm-trail' with 4 faces
 g frm-trail
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  318//437 319//437 320//437
 f  319//438 318//438 321//438
 f  320//44 321//44 318//44
@@ -1757,7 +1757,7 @@ f  321//439 320//439 319//439
 
 # Mesh 'frm-trthrust' with 4 faces
 g frm-trthrust
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  322//437 323//437 324//437
 f  323//438 322//438 325//438
 f  324//44 325//44 322//44
@@ -1765,7 +1765,7 @@ f  325//439 324//439 323//439
 
 # Mesh 'frm-tlthrust' with 4 faces
 g frm-tlthrust
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  326//437 327//437 328//437
 f  327//438 326//438 329//438
 f  328//44 329//44 326//44
@@ -1773,7 +1773,7 @@ f  329//439 328//439 327//439
 
 # Mesh 'frm-brthrust' with 4 faces
 g frm-brthrust
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  330//437 331//437 332//437
 f  331//438 330//438 333//438
 f  332//44 333//44 330//44
@@ -1781,7 +1781,7 @@ f  333//439 332//439 331//439
 
 # Mesh 'frm-blthrust' with 4 faces
 g frm-blthrust
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  334//437 335//437 336//437
 f  335//438 334//438 337//438
 f  336//44 337//44 334//44
@@ -1789,7 +1789,7 @@ f  337//439 336//439 335//439
 
 # Mesh 'frm-cockpt' with 4 faces
 g frm-cockpt
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  338//437 339//437 340//437
 f  339//438 338//438 341//438
 f  340//44 341//44 338//44
@@ -1797,7 +1797,7 @@ f  341//439 340//439 339//439
 
 # Mesh 'frm-missemt' with 4 faces
 g frm-missemt
-usemtl JoinedMaterial_#52
+usemtl MainMaterial
 f  342//485 343//485 344//485
 f  343//486 342//486 345//486
 f  344//44 345//44 342//44

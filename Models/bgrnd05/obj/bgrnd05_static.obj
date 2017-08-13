@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib bgrnd05_static.obj.mtl
 
 # 42 vertex positions
 v  -0.520884 3.74537 -2.61952
@@ -156,7 +155,6 @@ vn 0.082949 -0.529318 0.844359
 
 # Mesh 'frm-sphere2' with 80 faces
 g frm-sphere2
-usemtl material327
 f  1/1/1 2/2/2 3/3/3
 f  2/2/2 4/4/4 3/5/3
 f  5/6/5 2/2/2 1/1/1

@@ -1,7 +1,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.29665513)
 
-mtllib utl20_bound.obj.mtl
 
 # 121 vertex positions
 v  -7.80866 -5 25.9386
@@ -419,7 +418,6 @@ vn 0.999998 0.00154049 -0.00140372
 
 # Mesh 'frm-bound02' with 12 faces
 g frm-bound02
-usemtl material697
 f  1//1 2//1 3//1
 f  4//1 1//1 3//1
 f  5//2 6//2 2//2
@@ -435,7 +433,6 @@ f  3//6 2//6 8//6
 
 # Mesh 'frm-bound03' with 24 faces
 g frm-bound03
-usemtl material697
 f  9//7 10//8 11//9
 f  12//10 9//7 11//9
 f  12//10 11//9 13//11
@@ -463,7 +460,6 @@ f  25//29 9//7 12//10
 
 # Mesh 'frm-bound01' with 145 faces
 g frm-bound01
-usemtl material697
 f  26/1/31 27/2/32 28/3/33
 f  28/3/33 27/2/32 29/4/34
 f  30/5/35 28/3/33 29/6/34
@@ -612,7 +608,6 @@ f  29/6/34 34/100/39 91/99/110
 
 # Mesh 'frm-bound01' with 36 faces
 g frm-bound01
-usemtl material706
 f  36/101/129 44/102/130 106/103/131
 f  107/104/132 36/101/129 106/103/131
 f  108/105/133 109/106/133 110/107/133

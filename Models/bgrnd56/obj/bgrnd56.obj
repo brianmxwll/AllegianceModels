@@ -186,7 +186,7 @@ vn -0.104693 -0.951996 0.28765
 
 # Mesh 'frm-sphere9' with 96 faces
 g frm-sphere9
-usemtl material321
+usemtl MainMaterial
 f  1/1/1 2/2/2 3/3/3
 f  4/4/4 1/1/1 3/3/3
 f  3/3/3 2/2/2 5/5/5
