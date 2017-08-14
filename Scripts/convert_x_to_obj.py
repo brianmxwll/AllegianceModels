@@ -1,7 +1,7 @@
 # This script will automate the process of converting X models
 # to OBJ models. WARNING: There is a .01% chance that this works
 # on the first run on other machines. It will manually manipulate
-# the mouse and keyboard to control Milkshape 3d.
+# the mouse and keyboard to control Assimp.
 
 import pyautogui
 import subprocess
