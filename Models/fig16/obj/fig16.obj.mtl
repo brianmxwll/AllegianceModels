@@ -6,5 +6,5 @@ kd 1 1 1
 ks 1 1 1
 ke 0 0 0
 illum 1
-map_Ka fig16.bmp
-map_Kd fig16.bmp
+map_Ka fig16.png
+map_Kd fig16.png

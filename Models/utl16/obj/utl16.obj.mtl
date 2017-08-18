@@ -6,5 +6,5 @@ kd 1 1 1
 ks 1 1 1
 ke 0 0 0
 illum 1
-map_Ka utl16.bmp
-map_Kd utl16.bmp
+map_Ka utl16.png
+map_Kd utl16.png

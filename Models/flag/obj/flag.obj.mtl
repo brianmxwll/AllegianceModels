@@ -6,5 +6,5 @@ kd 1 1 1
 ks 1 1 1
 ke 0 0 0
 illum 1
-map_Ka flag.bmp
-map_Kd flag.bmp
+map_Ka flag.png
+map_Kd flag.png

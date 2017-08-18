@@ -6,5 +6,5 @@ kd 1 1 1
 ks 1 1 1
 ke 0 0 0
 illum 1
-map_Ka cap01.bmp
-map_Kd cap01.bmp
+map_Ka cap01.png
+map_Kd cap01.png

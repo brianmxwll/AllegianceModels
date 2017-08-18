@@ -6,5 +6,5 @@ kd 1 1 1
 ks 1 1 1
 ke 0 0 0
 illum 1
-map_Ka ops2.bmp
-map_Kd ops2.bmp
+map_Ka ops2.png
+map_Kd ops2.png
